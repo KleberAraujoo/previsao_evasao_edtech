@@ -1,0 +1,501 @@
+student_id,idade,genero,nivel_educacional,categoria_curso,dias_ativo_primeira_semana,media_minutos_por_sessao,total_sessoes,concluiu_primeiro_quiz,posts_forum,mensagens_tutor,tipo_assinatura,tipo_dispositivo,evadiu_30_dias
+S0000,54,Feminino,Pós-graduado(a),Design,6,49.66,27,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0001,44,Feminino,Não Informado,Tecnologia,5,2.07,23,Não Concluiu,1,0,Pago,Tablet,Evadiu
+S0002,30,Masculino,Pós-graduado(a),Idiomas,0,19.45,27,Não Concluiu,0,0,Grátis,Tablet,Evadiu
+S0003,58,Outro,Pós-graduado(a),Negócios,2,57.27,5,Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0004,23,Masculino,Pós-graduado(a),Negócios,0,29.54,25,Concluiu,1,0,Pago,Desktop,Não Evadiu
+S0005,36,Masculino,Ensino Médio,Negócios,0,24.19,3,Não Concluiu,0,0,Grátis,Tablet,Evadiu
+S0006,54,Outro,Não Informado,Tecnologia,3,8.95,1,Não Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0007,34,Feminino,Graduando(a),Idiomas,1,57.27,4,Concluiu,2,1,Grátis,Desktop,Não Evadiu
+S0008,38,Masculino,Ensino Médio,Idiomas,2,3.16,25,Não Concluiu,3,2,Grátis,Mobile,Não Evadiu
+S0009,26,Feminino,Pós-graduado(a),Tecnologia,4,44.76,20,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0010,26,Feminino,Ensino Médio,Idiomas,4,46.58,2,Não Concluiu,2,0,Pago,Mobile,Não Evadiu
+S0011,39,Feminino,Pós-graduado(a),Tecnologia,6,16.13,26,Não Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0012,51,Masculino,Pós-graduado(a),Tecnologia,0,40.95,5,Não Concluiu,2,1,Grátis,Tablet,Não Evadiu
+S0013,55,Masculino,Ensino Médio,Tecnologia,7,7.39,3,Não Concluiu,2,1,Grátis,Desktop,Evadiu
+S0014,39,Feminino,Não Informado,Negócios,3,16.91,28,Concluiu,2,0,Grátis,Desktop,Evadiu
+S0015,18,Feminino,Pós-graduado(a),Idiomas,7,47.7,28,Não Concluiu,3,0,Pago,Tablet,Não Evadiu
+S0016,37,Feminino,Não Informado,Tecnologia,3,52.15,28,Não Concluiu,0,1,Pago,Desktop,Não Evadiu
+S0017,17,Masculino,Graduando(a),Idiomas,4,37.29,9,Não Concluiu,1,1,Grátis,Mobile,Não Evadiu
+S0018,39,Feminino,Pós-graduado(a),Negócios,6,31.4,20,Não Concluiu,2,0,Pago,Desktop,Não Evadiu
+S0019,59,Feminino,Não Informado,Tecnologia,6,11.24,6,Não Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0020,45,Masculino,Não Informado,Design,6,5.66,18,Não Concluiu,2,2,Pago,Mobile,Não Evadiu
+S0021,53,Masculino,Graduando(a),Negócios,2,8.82,6,Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0022,17,Feminino,Não Informado,Design,1,15.19,19,Não Concluiu,3,1,Pago,Tablet,Não Evadiu
+S0023,36,Feminino,Não Informado,Idiomas,2,21.82,28,Não Concluiu,1,0,Pago,Mobile,Não Evadiu
+S0024,48,Masculino,Graduando(a),Idiomas,5,24.09,12,Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0025,27,Masculino,Pós-graduado(a),Negócios,5,22.09,25,Não Concluiu,3,0,Grátis,Mobile,Não Evadiu
+S0026,37,Masculino,Não Informado,Idiomas,7,15.87,11,Concluiu,2,0,Pago,Tablet,Não Evadiu
+S0027,59,Masculino,Não Informado,Design,1,31.56,2,Não Concluiu,0,0,Pago,Tablet,Evadiu
+S0028,40,Outro,Não Informado,Tecnologia,4,49.87,15,Concluiu,2,1,Grátis,Desktop,Não Evadiu
+S0029,42,Feminino,Ensino Médio,Tecnologia,1,18.22,12,Concluiu,0,2,Pago,Tablet,Não Evadiu
+S0030,57,Masculino,Graduando(a),Tecnologia,3,56.66,12,Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0031,43,Outro,Ensino Médio,Negócios,5,52.65,9,Concluiu,2,1,Grátis,Mobile,Não Evadiu
+S0032,31,Feminino,Graduando(a),Idiomas,0,11.38,21,Não Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0033,30,Feminino,Pós-graduado(a),Design,0,47.6,24,Concluiu,3,2,Grátis,Tablet,Evadiu
+S0034,59,Feminino,Pós-graduado(a),Idiomas,4,35.33,2,Não Concluiu,3,0,Pago,Mobile,Não Evadiu
+S0035,18,Masculino,Não Informado,Idiomas,3,34.86,22,Não Concluiu,2,1,Grátis,Mobile,Não Evadiu
+S0036,52,Masculino,Graduando(a),Idiomas,7,24.68,3,Não Concluiu,0,1,Pago,Tablet,Não Evadiu
+S0037,22,Feminino,Pós-graduado(a),Tecnologia,2,31.07,12,Não Concluiu,1,0,Grátis,Mobile,Evadiu
+S0038,36,Feminino,Graduando(a),Design,3,25.04,28,Não Concluiu,1,2,Grátis,Desktop,Não Evadiu
+S0039,24,Masculino,Pós-graduado(a),Design,0,33.3,26,Não Concluiu,3,0,Grátis,Mobile,Não Evadiu
+S0040,54,Outro,Ensino Médio,Idiomas,0,38.42,16,Não Concluiu,2,1,Grátis,Mobile,Não Evadiu
+S0041,33,Feminino,Pós-graduado(a),Tecnologia,7,41.11,21,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0042,19,Masculino,Ensino Médio,Tecnologia,5,32.88,28,Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0043,40,Outro,Pós-graduado(a),Design,3,43.84,24,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0044,29,Outro,Não Informado,Tecnologia,3,10.19,26,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0045,24,Outro,Ensino Médio,Tecnologia,0,14.29,1,Não Concluiu,1,1,Grátis,Desktop,Evadiu
+S0046,41,Masculino,Pós-graduado(a),Tecnologia,2,49.49,21,Não Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0047,17,Feminino,Não Informado,Negócios,4,20.71,3,Não Concluiu,0,1,Pago,Tablet,Não Evadiu
+S0048,35,Feminino,Ensino Médio,Idiomas,6,3.33,20,Não Concluiu,1,0,Pago,Mobile,Não Evadiu
+S0049,43,Feminino,Não Informado,Design,4,10.92,2,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0050,22,Outro,Graduando(a),Design,3,14.97,9,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0051,59,Feminino,Graduando(a),Negócios,4,57.27,19,Não Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0052,23,Feminino,Ensino Médio,Idiomas,0,35.24,15,Não Concluiu,2,1,Pago,Tablet,Não Evadiu
+S0053,50,Feminino,Pós-graduado(a),Design,0,56.1,18,Não Concluiu,2,1,Grátis,Desktop,Não Evadiu
+S0054,29,Feminino,Ensino Médio,Tecnologia,7,35.36,26,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0055,32,Masculino,Não Informado,Design,3,29.8,11,Não Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0056,51,Masculino,Pós-graduado(a),Tecnologia,7,20.2,25,Concluiu,2,0,Grátis,Tablet,Evadiu
+S0057,55,Masculino,Graduando(a),Negócios,3,37.17,23,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0058,19,Feminino,Pós-graduado(a),Tecnologia,6,10.07,16,Não Concluiu,1,0,Pago,Desktop,Não Evadiu
+S0059,17,Masculino,Graduando(a),Design,6,54.1,22,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0060,21,Feminino,Pós-graduado(a),Design,5,50.1,17,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0061,57,Masculino,Pós-graduado(a),Design,3,20.42,5,Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0062,19,Feminino,Pós-graduado(a),Negócios,2,57.26,12,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0063,44,Feminino,Não Informado,Negócios,4,49.86,11,Concluiu,0,0,Pago,Desktop,Não Evadiu
+S0064,33,Feminino,Não Informado,Idiomas,3,40.65,15,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0065,41,Masculino,Ensino Médio,Design,1,9.06,27,Não Concluiu,0,2,Pago,Desktop,Não Evadiu
+S0066,59,Outro,Ensino Médio,Tecnologia,5,29.74,3,Não Concluiu,3,1,Grátis,Desktop,Não Evadiu
+S0067,49,Feminino,Graduando(a),Negócios,1,31.35,1,Não Concluiu,0,0,Grátis,Tablet,Evadiu
+S0068,25,Masculino,Não Informado,Design,0,15.49,20,Não Concluiu,1,0,Pago,Tablet,Não Evadiu
+S0069,51,Feminino,Graduando(a),Design,6,6.64,28,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0070,29,Feminino,Ensino Médio,Negócios,4,47.05,16,Concluiu,2,0,Pago,Mobile,Não Evadiu
+S0071,46,Masculino,Graduando(a),Idiomas,3,9.08,2,Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0072,30,Feminino,Ensino Médio,Negócios,1,36.47,2,Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0073,23,Masculino,Não Informado,Negócios,4,56.31,3,Não Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0074,29,Masculino,Pós-graduado(a),Tecnologia,0,52.81,8,Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0075,38,Masculino,Não Informado,Tecnologia,6,18.11,24,Não Concluiu,1,1,Pago,Desktop,Não Evadiu
+S0076,55,Masculino,Graduando(a),Idiomas,2,51.38,28,Concluiu,3,0,Pago,Mobile,Não Evadiu
+S0077,36,Masculino,Graduando(a),Design,5,2.02,15,Não Concluiu,0,2,Pago,Mobile,Não Evadiu
+S0078,31,Feminino,Não Informado,Negócios,4,3.03,7,Concluiu,3,1,Pago,Mobile,Não Evadiu
+S0079,33,Feminino,Não Informado,Idiomas,4,36.95,6,Não Concluiu,2,1,Pago,Mobile,Não Evadiu
+S0080,39,Feminino,Ensino Médio,Tecnologia,2,23.16,9,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0081,41,Feminino,Graduando(a),Negócios,4,24.41,20,Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0082,40,Feminino,Graduando(a),Design,0,34.74,28,Não Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0083,56,Feminino,Não Informado,Tecnologia,0,13.12,1,Não Concluiu,1,1,Grátis,Desktop,Evadiu
+S0084,44,Masculino,Pós-graduado(a),Tecnologia,2,14.28,8,Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0085,30,Masculino,Graduando(a),Tecnologia,5,30.11,23,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0086,16,Feminino,Pós-graduado(a),Idiomas,3,45.75,23,Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0087,40,Masculino,Não Informado,Design,1,37.93,3,Não Concluiu,2,1,Grátis,Tablet,Evadiu
+S0088,22,Feminino,Não Informado,Negócios,3,19.25,4,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0089,24,Masculino,Ensino Médio,Idiomas,4,26.96,26,Não Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0090,39,Feminino,Graduando(a),Idiomas,1,11.9,25,Não Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0091,16,Outro,Pós-graduado(a),Idiomas,7,6.33,15,Concluiu,0,2,Pago,Mobile,Não Evadiu
+S0092,59,Feminino,Ensino Médio,Tecnologia,2,47.4,6,Não Concluiu,1,0,Pago,Mobile,Não Evadiu
+S0093,23,Masculino,Graduando(a),Design,2,17.39,15,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0094,39,Masculino,Ensino Médio,Idiomas,5,12.31,21,Não Concluiu,2,1,Grátis,Mobile,Não Evadiu
+S0095,26,Outro,Não Informado,Negócios,1,42.11,3,Não Concluiu,0,0,Grátis,Desktop,Evadiu
+S0096,32,Outro,Graduando(a),Design,0,37.85,25,Concluiu,0,0,Grátis,Mobile,Evadiu
+S0097,23,Masculino,Ensino Médio,Negócios,1,38.72,21,Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0098,50,Feminino,Ensino Médio,Design,4,15.28,21,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0099,50,Masculino,Pós-graduado(a),Negócios,0,15.49,14,Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0100,48,Masculino,Ensino Médio,Tecnologia,6,14.81,20,Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0101,20,Masculino,Graduando(a),Idiomas,6,12.08,14,Não Concluiu,1,2,Pago,Tablet,Não Evadiu
+S0102,57,Masculino,Graduando(a),Negócios,7,40.03,4,Concluiu,3,0,Pago,Desktop,Não Evadiu
+S0103,54,Outro,Pós-graduado(a),Design,6,51.18,12,Não Concluiu,0,0,Grátis,Mobile,Evadiu
+S0104,56,Feminino,Graduando(a),Idiomas,2,44.01,17,Não Concluiu,3,0,Grátis,Mobile,Não Evadiu
+S0105,43,Masculino,Não Informado,Idiomas,1,47.94,7,Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0106,22,Feminino,Graduando(a),Design,6,25.48,9,Não Concluiu,2,1,Grátis,Desktop,Não Evadiu
+S0107,24,Outro,Graduando(a),Negócios,3,39.94,3,Concluiu,1,0,Pago,Tablet,Não Evadiu
+S0108,23,Outro,Ensino Médio,Tecnologia,5,22.55,28,Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0109,27,Masculino,Ensino Médio,Tecnologia,3,32.48,13,Não Concluiu,2,0,Pago,Tablet,Não Evadiu
+S0110,49,Masculino,Graduando(a),Negócios,6,29.93,15,Concluiu,0,0,Grátis,Desktop,Evadiu
+S0111,48,Masculino,Pós-graduado(a),Idiomas,7,12.26,18,Não Concluiu,2,0,Pago,Tablet,Não Evadiu
+S0112,38,Masculino,Ensino Médio,Idiomas,5,24.45,19,Não Concluiu,2,1,Grátis,Desktop,Evadiu
+S0113,39,Masculino,Pós-graduado(a),Idiomas,4,57.27,1,Concluiu,1,0,Pago,Desktop,Não Evadiu
+S0114,52,Feminino,Graduando(a),Idiomas,3,16.42,6,Concluiu,1,2,Grátis,Mobile,Não Evadiu
+S0115,50,Masculino,Graduando(a),Negócios,7,9.76,27,Não Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0116,59,Masculino,Não Informado,Idiomas,1,26.28,27,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0117,55,Masculino,Ensino Médio,Design,1,47.84,23,Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0118,37,Masculino,Graduando(a),Idiomas,3,35.76,27,Concluiu,2,1,Pago,Tablet,Não Evadiu
+S0119,42,Masculino,Não Informado,Tecnologia,6,41.5,27,Concluiu,0,0,Pago,Desktop,Evadiu
+S0120,50,Feminino,Ensino Médio,Idiomas,7,13.0,2,Não Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0121,16,Masculino,Graduando(a),Negócios,1,37.9,24,Não Concluiu,0,1,Grátis,Mobile,Evadiu
+S0122,50,Masculino,Graduando(a),Tecnologia,4,20.76,14,Não Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0123,52,Masculino,Ensino Médio,Negócios,0,50.39,6,Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0124,29,Feminino,Ensino Médio,Negócios,6,38.5,14,Não Concluiu,3,2,Grátis,Mobile,Não Evadiu
+S0125,18,Masculino,Ensino Médio,Tecnologia,7,13.53,4,Não Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0126,16,Masculino,Graduando(a),Negócios,4,5.75,21,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0127,20,Masculino,Graduando(a),Negócios,7,4.47,8,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0128,41,Outro,Não Informado,Idiomas,5,23.54,3,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0129,29,Masculino,Pós-graduado(a),Design,4,17.42,19,Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0130,54,Feminino,Ensino Médio,Negócios,6,39.47,14,Concluiu,2,1,Pago,Mobile,Não Evadiu
+S0131,42,Outro,Graduando(a),Negócios,5,30.96,27,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0132,24,Masculino,Graduando(a),Negócios,6,17.43,20,Não Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0133,30,Feminino,Ensino Médio,Idiomas,1,10.66,17,Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0134,30,Feminino,Pós-graduado(a),Design,0,9.38,25,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0135,41,Masculino,Ensino Médio,Tecnologia,6,52.15,8,Concluiu,3,0,Grátis,Desktop,Não Evadiu
+S0136,57,Masculino,Pós-graduado(a),Idiomas,6,16.12,24,Não Concluiu,1,0,Grátis,Mobile,Evadiu
+S0137,28,Feminino,Graduando(a),Idiomas,1,39.8,14,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0138,47,Feminino,Pós-graduado(a),Design,2,49.02,26,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0139,54,Outro,Não Informado,Design,1,37.62,6,Concluiu,0,0,Grátis,Desktop,Evadiu
+S0140,47,Masculino,Graduando(a),Idiomas,5,51.85,23,Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0141,19,Feminino,Não Informado,Tecnologia,1,24.76,22,Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0142,45,Masculino,Ensino Médio,Idiomas,1,57.27,16,Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0143,52,Feminino,Ensino Médio,Design,0,9.72,25,Não Concluiu,0,1,Pago,Desktop,Não Evadiu
+S0144,38,Feminino,Ensino Médio,Tecnologia,1,7.92,19,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0145,54,Masculino,Pós-graduado(a),Design,7,40.2,14,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0146,30,Masculino,Graduando(a),Tecnologia,6,56.68,19,Não Concluiu,0,1,Pago,Mobile,Não Evadiu
+S0147,58,Masculino,Ensino Médio,Negócios,7,48.92,3,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0148,44,Masculino,Ensino Médio,Design,0,6.43,10,Não Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0149,51,Masculino,Graduando(a),Design,3,18.2,19,Não Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0150,28,Feminino,Ensino Médio,Idiomas,2,55.96,9,Não Concluiu,2,1,Grátis,Mobile,Não Evadiu
+S0151,47,Feminino,Não Informado,Design,7,16.68,28,Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0152,22,Feminino,Graduando(a),Design,0,47.31,20,Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0153,37,Outro,Graduando(a),Negócios,5,49.86,13,Não Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0154,43,Feminino,Graduando(a),Design,3,30.74,7,Concluiu,3,0,Grátis,Tablet,Evadiu
+S0155,17,Feminino,Não Informado,Negócios,0,24.41,14,Não Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0156,57,Feminino,Graduando(a),Negócios,0,28.11,9,Não Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0157,21,Masculino,Não Informado,Negócios,2,15.16,27,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0158,43,Masculino,Graduando(a),Negócios,6,53.58,28,Não Concluiu,2,1,Grátis,Desktop,Não Evadiu
+S0159,43,Masculino,Pós-graduado(a),Tecnologia,7,28.14,23,Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0160,59,Masculino,Ensino Médio,Idiomas,5,53.18,25,Concluiu,1,1,Pago,Tablet,Não Evadiu
+S0161,59,Masculino,Pós-graduado(a),Tecnologia,4,8.13,28,Não Concluiu,1,1,Grátis,Mobile,Não Evadiu
+S0162,35,Masculino,Ensino Médio,Design,7,57.27,19,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0163,45,Feminino,Não Informado,Tecnologia,4,27.71,15,Não Concluiu,2,1,Grátis,Tablet,Não Evadiu
+S0164,26,Feminino,Pós-graduado(a),Tecnologia,0,4.77,20,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0165,43,Masculino,Graduando(a),Design,1,4.21,14,Não Concluiu,0,0,Pago,Desktop,Não Evadiu
+S0166,40,Masculino,Ensino Médio,Design,5,45.28,24,Não Concluiu,1,1,Grátis,Tablet,Evadiu
+S0167,54,Masculino,Ensino Médio,Design,3,40.22,6,Concluiu,1,0,Pago,Desktop,Não Evadiu
+S0168,48,Feminino,Pós-graduado(a),Tecnologia,1,48.52,21,Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0169,16,Feminino,Não Informado,Tecnologia,1,8.11,28,Não Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0170,42,Feminino,Pós-graduado(a),Design,7,4.06,4,Concluiu,3,0,Grátis,Mobile,Não Evadiu
+S0171,28,Masculino,Não Informado,Idiomas,5,31.5,8,Não Concluiu,2,2,Pago,Tablet,Não Evadiu
+S0172,56,Feminino,Não Informado,Idiomas,6,24.48,17,Não Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0173,18,Outro,Ensino Médio,Negócios,0,28.79,9,Não Concluiu,3,0,Grátis,Mobile,Evadiu
+S0174,54,Masculino,Pós-graduado(a),Design,0,57.27,1,Concluiu,2,0,Grátis,Desktop,Evadiu
+S0175,21,Feminino,Pós-graduado(a),Negócios,0,57.27,24,Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0176,23,Feminino,Não Informado,Idiomas,0,56.65,20,Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0177,42,Feminino,Pós-graduado(a),Negócios,7,47.46,25,Não Concluiu,2,1,Grátis,Mobile,Não Evadiu
+S0178,24,Masculino,Graduando(a),Design,4,22.58,14,Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0179,52,Feminino,Graduando(a),Design,0,25.9,11,Não Concluiu,1,2,Pago,Mobile,Não Evadiu
+S0180,48,Feminino,Pós-graduado(a),Design,4,33.88,21,Concluiu,2,1,Grátis,Desktop,Não Evadiu
+S0181,57,Feminino,Pós-graduado(a),Tecnologia,4,50.17,3,Não Concluiu,2,0,Pago,Mobile,Não Evadiu
+S0182,59,Outro,Não Informado,Negócios,6,5.99,9,Não Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0183,39,Feminino,Graduando(a),Idiomas,0,26.61,27,Não Concluiu,1,0,Grátis,Desktop,Evadiu
+S0184,30,Outro,Graduando(a),Idiomas,2,6.79,14,Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0185,47,Feminino,Ensino Médio,Idiomas,3,31.85,9,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0186,47,Feminino,Não Informado,Tecnologia,1,54.14,4,Concluiu,3,0,Grátis,Tablet,Não Evadiu
+S0187,39,Feminino,Ensino Médio,Tecnologia,4,47.38,27,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0188,56,Masculino,Graduando(a),Design,5,15.21,4,Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0189,27,Feminino,Não Informado,Idiomas,5,57.27,28,Concluiu,3,1,Pago,Desktop,Não Evadiu
+S0190,54,Feminino,Pós-graduado(a),Tecnologia,3,40.71,8,Concluiu,3,0,Pago,Desktop,Não Evadiu
+S0191,17,Feminino,Não Informado,Design,5,2.6,2,Não Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0192,18,Outro,Pós-graduado(a),Idiomas,2,16.81,9,Não Concluiu,3,0,Grátis,Tablet,Não Evadiu
+S0193,52,Masculino,Pós-graduado(a),Negócios,5,17.12,28,Não Concluiu,0,1,Pago,Desktop,Não Evadiu
+S0194,32,Feminino,Não Informado,Design,1,6.02,14,Concluiu,3,0,Grátis,Mobile,Não Evadiu
+S0195,17,Feminino,Pós-graduado(a),Tecnologia,1,57.27,22,Não Concluiu,3,1,Grátis,Desktop,Não Evadiu
+S0196,17,Feminino,Ensino Médio,Tecnologia,4,29.74,9,Não Concluiu,0,0,Grátis,Tablet,Evadiu
+S0197,43,Feminino,Graduando(a),Design,0,53.96,24,Não Concluiu,2,0,Pago,Tablet,Não Evadiu
+S0198,38,Feminino,Pós-graduado(a),Design,6,20.69,23,Não Concluiu,0,1,Grátis,Tablet,Evadiu
+S0199,52,Feminino,Ensino Médio,Tecnologia,2,9.26,16,Concluiu,1,0,Pago,Mobile,Não Evadiu
+S0200,47,Masculino,Pós-graduado(a),Negócios,4,29.51,28,Não Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0201,48,Masculino,Graduando(a),Idiomas,2,8.61,17,Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0202,16,Feminino,Ensino Médio,Negócios,0,30.19,16,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0203,34,Masculino,Graduando(a),Design,7,55.38,12,Não Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0204,17,Masculino,Graduando(a),Negócios,5,32.2,3,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0205,59,Feminino,Ensino Médio,Tecnologia,5,37.76,11,Não Concluiu,3,2,Pago,Tablet,Não Evadiu
+S0206,41,Masculino,Ensino Médio,Design,6,11.09,14,Não Concluiu,1,1,Pago,Desktop,Não Evadiu
+S0207,47,Feminino,Ensino Médio,Idiomas,0,4.54,18,Concluiu,2,0,Grátis,Tablet,Evadiu
+S0208,21,Feminino,Não Informado,Tecnologia,4,8.43,21,Não Concluiu,0,1,Pago,Tablet,Não Evadiu
+S0209,47,Feminino,Ensino Médio,Tecnologia,6,36.71,21,Concluiu,0,1,Pago,Mobile,Não Evadiu
+S0210,19,Masculino,Ensino Médio,Idiomas,0,7.51,5,Não Concluiu,1,1,Pago,Mobile,Não Evadiu
+S0211,26,Feminino,Ensino Médio,Idiomas,3,23.81,16,Não Concluiu,1,2,Grátis,Mobile,Não Evadiu
+S0212,32,Masculino,Ensino Médio,Negócios,1,33.91,20,Concluiu,3,1,Grátis,Mobile,Não Evadiu
+S0213,53,Feminino,Pós-graduado(a),Design,6,24.54,5,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0214,39,Masculino,Não Informado,Idiomas,6,11.49,3,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0215,20,Feminino,Graduando(a),Idiomas,4,17.88,12,Não Concluiu,1,0,Grátis,Desktop,Evadiu
+S0216,49,Feminino,Ensino Médio,Design,2,55.84,1,Não Concluiu,0,2,Pago,Tablet,Evadiu
+S0217,21,Outro,Pós-graduado(a),Idiomas,3,41.21,21,Concluiu,0,2,Grátis,Tablet,Não Evadiu
+S0218,37,Feminino,Pós-graduado(a),Idiomas,4,30.77,28,Não Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0219,26,Masculino,Pós-graduado(a),Negócios,0,2.74,9,Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0220,31,Feminino,Graduando(a),Tecnologia,0,57.27,28,Concluiu,1,0,Pago,Tablet,Não Evadiu
+S0221,48,Masculino,Ensino Médio,Tecnologia,0,40.94,9,Não Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0222,24,Masculino,Não Informado,Tecnologia,7,20.38,4,Concluiu,3,1,Grátis,Desktop,Evadiu
+S0223,21,Masculino,Não Informado,Tecnologia,0,53.0,3,Não Concluiu,1,0,Grátis,Desktop,Evadiu
+S0224,31,Feminino,Pós-graduado(a),Idiomas,2,16.99,17,Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0225,44,Feminino,Graduando(a),Design,3,33.55,2,Não Concluiu,2,1,Grátis,Desktop,Não Evadiu
+S0226,18,Masculino,Graduando(a),Design,5,38.89,24,Concluiu,3,0,Grátis,Tablet,Não Evadiu
+S0227,35,Feminino,Graduando(a),Negócios,1,14.82,1,Não Concluiu,0,0,Pago,Tablet,Evadiu
+S0228,51,Masculino,Não Informado,Negócios,2,57.27,8,Não Concluiu,1,0,Pago,Mobile,Evadiu
+S0229,34,Masculino,Pós-graduado(a),Idiomas,2,45.4,13,Concluiu,0,2,Pago,Mobile,Não Evadiu
+S0230,41,Masculino,Ensino Médio,Design,7,34.35,23,Concluiu,1,0,Grátis,Desktop,Evadiu
+S0231,18,Masculino,Não Informado,Design,5,12.47,15,Não Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0232,34,Feminino,Pós-graduado(a),Tecnologia,5,5.12,8,Não Concluiu,1,1,Pago,Tablet,Não Evadiu
+S0233,35,Feminino,Pós-graduado(a),Idiomas,1,20.56,12,Concluiu,0,1,Grátis,Desktop,Não Evadiu
+S0234,47,Feminino,Ensino Médio,Idiomas,1,45.68,22,Concluiu,3,0,Pago,Desktop,Evadiu
+S0235,22,Masculino,Ensino Médio,Tecnologia,5,17.62,12,Concluiu,2,1,Grátis,Tablet,Não Evadiu
+S0236,56,Masculino,Ensino Médio,Idiomas,0,33.29,14,Concluiu,3,0,Grátis,Desktop,Não Evadiu
+S0237,48,Masculino,Graduando(a),Idiomas,2,44.22,15,Concluiu,3,0,Grátis,Desktop,Não Evadiu
+S0238,55,Feminino,Ensino Médio,Negócios,4,8.26,15,Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0239,54,Masculino,Pós-graduado(a),Design,1,41.75,9,Não Concluiu,3,0,Grátis,Tablet,Evadiu
+S0240,33,Feminino,Ensino Médio,Idiomas,7,7.33,19,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0241,55,Outro,Pós-graduado(a),Negócios,7,57.27,26,Concluiu,3,0,Pago,Tablet,Não Evadiu
+S0242,16,Feminino,Não Informado,Design,1,30.33,20,Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0243,26,Outro,Graduando(a),Tecnologia,5,10.74,28,Não Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0244,43,Masculino,Não Informado,Negócios,3,21.86,22,Não Concluiu,2,1,Pago,Tablet,Não Evadiu
+S0245,40,Feminino,Não Informado,Negócios,4,25.98,8,Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0246,38,Feminino,Pós-graduado(a),Design,4,45.97,21,Não Concluiu,1,0,Grátis,Tablet,Evadiu
+S0247,46,Feminino,Não Informado,Tecnologia,1,45.12,19,Não Concluiu,0,0,Pago,Desktop,Não Evadiu
+S0248,45,Masculino,Pós-graduado(a),Negócios,0,37.49,6,Não Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0249,57,Masculino,Ensino Médio,Idiomas,3,8.14,20,Não Concluiu,2,0,Pago,Desktop,Não Evadiu
+S0250,50,Masculino,Ensino Médio,Idiomas,4,10.79,25,Não Concluiu,1,0,Pago,Desktop,Não Evadiu
+S0251,22,Feminino,Pós-graduado(a),Idiomas,1,7.44,28,Não Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0252,31,Feminino,Ensino Médio,Tecnologia,7,35.48,19,Não Concluiu,3,0,Grátis,Mobile,Não Evadiu
+S0253,41,Feminino,Graduando(a),Negócios,4,52.87,4,Concluiu,3,0,Grátis,Desktop,Evadiu
+S0254,17,Masculino,Não Informado,Idiomas,6,27.16,23,Não Concluiu,1,0,Grátis,Tablet,Evadiu
+S0255,16,Feminino,Graduando(a),Tecnologia,3,11.33,7,Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0256,27,Masculino,Não Informado,Idiomas,3,34.37,28,Concluiu,3,0,Pago,Desktop,Não Evadiu
+S0257,20,Masculino,Ensino Médio,Design,6,49.08,28,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0258,52,Masculino,Graduando(a),Negócios,2,45.02,4,Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0259,47,Feminino,Ensino Médio,Negócios,7,53.12,22,Não Concluiu,1,0,Pago,Mobile,Não Evadiu
+S0260,24,Masculino,Não Informado,Tecnologia,6,18.12,12,Concluiu,3,0,Grátis,Desktop,Não Evadiu
+S0261,56,Feminino,Pós-graduado(a),Tecnologia,5,13.25,13,Não Concluiu,2,1,Grátis,Tablet,Não Evadiu
+S0262,50,Feminino,Pós-graduado(a),Negócios,5,53.03,3,Concluiu,1,1,Grátis,Tablet,Evadiu
+S0263,34,Masculino,Graduando(a),Idiomas,1,40.14,22,Concluiu,2,0,Pago,Mobile,Não Evadiu
+S0264,31,Feminino,Ensino Médio,Idiomas,3,20.03,12,Não Concluiu,3,0,Grátis,Mobile,Não Evadiu
+S0265,18,Masculino,Ensino Médio,Design,2,45.06,2,Não Concluiu,1,0,Pago,Tablet,Evadiu
+S0266,35,Masculino,Graduando(a),Idiomas,2,49.28,24,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0267,39,Feminino,Pós-graduado(a),Tecnologia,4,37.67,2,Concluiu,3,1,Pago,Tablet,Não Evadiu
+S0268,48,Masculino,Não Informado,Tecnologia,4,41.9,27,Não Concluiu,1,2,Pago,Desktop,Não Evadiu
+S0269,39,Feminino,Graduando(a),Idiomas,6,23.77,23,Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0270,26,Feminino,Não Informado,Tecnologia,2,33.24,9,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0271,23,Feminino,Pós-graduado(a),Negócios,6,32.4,1,Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0272,51,Feminino,Ensino Médio,Negócios,7,51.19,8,Não Concluiu,0,0,Pago,Desktop,Evadiu
+S0273,53,Feminino,Pós-graduado(a),Idiomas,6,50.72,23,Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0274,55,Feminino,Graduando(a),Negócios,4,50.3,6,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0275,35,Feminino,Ensino Médio,Negócios,3,2.64,6,Não Concluiu,3,0,Grátis,Desktop,Não Evadiu
+S0276,50,Masculino,Graduando(a),Design,6,45.47,22,Não Concluiu,1,2,Grátis,Desktop,Não Evadiu
+S0277,40,Masculino,Graduando(a),Design,0,46.0,25,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0278,50,Feminino,Pós-graduado(a),Negócios,3,41.35,18,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0279,40,Feminino,Graduando(a),Idiomas,2,45.86,17,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0280,44,Masculino,Pós-graduado(a),Design,2,50.83,28,Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0281,33,Feminino,Ensino Médio,Tecnologia,6,29.28,12,Não Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0282,33,Masculino,Pós-graduado(a),Tecnologia,3,31.12,6,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0283,17,Outro,Ensino Médio,Tecnologia,4,9.23,26,Não Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0284,50,Masculino,Pós-graduado(a),Idiomas,4,24.35,27,Não Concluiu,1,0,Pago,Tablet,Evadiu
+S0285,31,Masculino,Não Informado,Negócios,5,39.32,8,Não Concluiu,1,0,Pago,Tablet,Não Evadiu
+S0286,56,Masculino,Não Informado,Tecnologia,2,47.26,19,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0287,51,Feminino,Graduando(a),Idiomas,1,14.6,28,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0288,48,Feminino,Pós-graduado(a),Design,5,9.99,10,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0289,19,Masculino,Pós-graduado(a),Negócios,4,40.46,1,Não Concluiu,2,1,Pago,Tablet,Não Evadiu
+S0290,48,Feminino,Ensino Médio,Design,3,2.11,25,Não Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0291,29,Masculino,Graduando(a),Idiomas,7,12.35,28,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0292,36,Feminino,Pós-graduado(a),Tecnologia,4,3.69,13,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0293,35,Masculino,Graduando(a),Tecnologia,3,11.68,17,Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0294,23,Masculino,Não Informado,Idiomas,5,12.52,3,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0295,22,Feminino,Pós-graduado(a),Tecnologia,2,24.49,8,Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0296,18,Outro,Pós-graduado(a),Negócios,4,25.33,14,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0297,32,Feminino,Graduando(a),Idiomas,6,52.71,3,Concluiu,2,0,Grátis,Desktop,Evadiu
+S0298,48,Feminino,Pós-graduado(a),Design,3,31.59,16,Concluiu,2,1,Pago,Desktop,Não Evadiu
+S0299,27,Outro,Graduando(a),Idiomas,2,43.96,13,Não Concluiu,3,0,Pago,Tablet,Não Evadiu
+S0300,37,Masculino,Pós-graduado(a),Negócios,7,8.04,20,Concluiu,0,0,Pago,Desktop,Não Evadiu
+S0301,37,Outro,Ensino Médio,Negócios,7,15.08,24,Não Concluiu,2,2,Pago,Desktop,Não Evadiu
+S0302,45,Feminino,Graduando(a),Idiomas,1,42.77,17,Não Concluiu,2,2,Grátis,Desktop,Não Evadiu
+S0303,53,Feminino,Pós-graduado(a),Idiomas,3,5.06,13,Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0304,53,Feminino,Não Informado,Tecnologia,5,30.22,28,Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0305,23,Feminino,Pós-graduado(a),Negócios,1,36.76,6,Não Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0306,42,Feminino,Não Informado,Idiomas,1,36.92,17,Não Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0307,42,Feminino,Não Informado,Idiomas,0,3.33,14,Não Concluiu,2,1,Grátis,Desktop,Não Evadiu
+S0308,49,Feminino,Ensino Médio,Negócios,4,20.68,17,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0309,36,Masculino,Graduando(a),Idiomas,3,38.92,8,Concluiu,1,2,Grátis,Desktop,Não Evadiu
+S0310,45,Outro,Pós-graduado(a),Tecnologia,1,10.64,11,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0311,48,Feminino,Ensino Médio,Negócios,0,42.33,20,Não Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0312,43,Masculino,Pós-graduado(a),Tecnologia,5,45.26,28,Não Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0313,48,Feminino,Não Informado,Tecnologia,2,57.27,1,Não Concluiu,0,0,Grátis,Mobile,Evadiu
+S0314,20,Feminino,Graduando(a),Tecnologia,6,14.17,26,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0315,34,Feminino,Pós-graduado(a),Tecnologia,6,49.86,7,Concluiu,1,0,Grátis,Tablet,Evadiu
+S0316,19,Feminino,Pós-graduado(a),Negócios,3,32.18,21,Concluiu,3,1,Grátis,Mobile,Não Evadiu
+S0317,50,Masculino,Não Informado,Tecnologia,1,23.66,21,Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0318,32,Feminino,Pós-graduado(a),Tecnologia,6,9.1,17,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0319,59,Outro,Pós-graduado(a),Idiomas,4,44.66,10,Concluiu,3,0,Grátis,Tablet,Evadiu
+S0320,43,Masculino,Não Informado,Negócios,6,15.68,11,Concluiu,1,2,Grátis,Mobile,Não Evadiu
+S0321,45,Feminino,Ensino Médio,Negócios,6,23.54,22,Concluiu,0,0,Pago,Desktop,Evadiu
+S0322,44,Masculino,Não Informado,Design,6,5.63,9,Não Concluiu,1,1,Pago,Tablet,Não Evadiu
+S0323,21,Feminino,Ensino Médio,Negócios,7,48.48,9,Não Concluiu,0,0,Grátis,Mobile,Evadiu
+S0324,50,Feminino,Graduando(a),Negócios,0,46.46,24,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0325,56,Feminino,Ensino Médio,Design,1,44.55,5,Não Concluiu,3,0,Pago,Mobile,Não Evadiu
+S0326,52,Masculino,Ensino Médio,Negócios,4,19.37,17,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0327,39,Feminino,Graduando(a),Negócios,1,12.06,9,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0328,44,Masculino,Ensino Médio,Negócios,7,38.98,17,Não Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0329,46,Masculino,Não Informado,Negócios,3,30.78,24,Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0330,50,Masculino,Ensino Médio,Design,3,12.34,21,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0331,48,Masculino,Graduando(a),Negócios,3,41.78,19,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0332,36,Feminino,Não Informado,Negócios,5,57.27,27,Concluiu,2,1,Pago,Tablet,Evadiu
+S0333,47,Feminino,Graduando(a),Design,6,45.34,7,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0334,38,Feminino,Graduando(a),Idiomas,5,44.92,23,Concluiu,1,1,Grátis,Mobile,Não Evadiu
+S0335,48,Masculino,Pós-graduado(a),Tecnologia,0,57.12,9,Concluiu,3,0,Pago,Mobile,Não Evadiu
+S0336,18,Feminino,Pós-graduado(a),Idiomas,3,13.77,7,Não Concluiu,1,1,Grátis,Desktop,Evadiu
+S0337,33,Feminino,Graduando(a),Design,7,34.8,13,Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0338,40,Masculino,Graduando(a),Tecnologia,4,57.27,11,Não Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0339,57,Outro,Graduando(a),Design,1,11.59,14,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0340,46,Outro,Pós-graduado(a),Design,6,42.61,19,Não Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0341,18,Masculino,Pós-graduado(a),Negócios,2,35.98,11,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0342,55,Masculino,Ensino Médio,Tecnologia,4,36.02,13,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0343,39,Outro,Ensino Médio,Negócios,6,42.46,14,Concluiu,1,0,Pago,Mobile,Não Evadiu
+S0344,47,Feminino,Graduando(a),Tecnologia,5,55.92,13,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0345,37,Masculino,Não Informado,Design,5,47.39,1,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0346,38,Feminino,Não Informado,Design,4,5.26,8,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0347,17,Feminino,Pós-graduado(a),Idiomas,5,51.46,12,Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0348,42,Feminino,Pós-graduado(a),Tecnologia,3,15.08,19,Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0349,57,Feminino,Pós-graduado(a),Negócios,0,23.86,12,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0350,17,Feminino,Graduando(a),Idiomas,1,28.78,8,Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0351,41,Masculino,Não Informado,Idiomas,0,29.89,8,Não Concluiu,2,0,Grátis,Desktop,Evadiu
+S0352,32,Masculino,Ensino Médio,Idiomas,6,27.24,28,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0353,55,Feminino,Graduando(a),Negócios,1,56.37,21,Concluiu,1,1,Pago,Mobile,Não Evadiu
+S0354,48,Outro,Ensino Médio,Idiomas,7,42.95,13,Não Concluiu,3,0,Grátis,Desktop,Não Evadiu
+S0355,24,Masculino,Ensino Médio,Negócios,1,38.61,12,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0356,58,Feminino,Graduando(a),Idiomas,0,4.89,28,Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0357,54,Feminino,Ensino Médio,Negócios,4,54.43,16,Concluiu,3,0,Pago,Desktop,Não Evadiu
+S0358,44,Feminino,Não Informado,Design,1,54.74,1,Não Concluiu,1,1,Grátis,Desktop,Evadiu
+S0359,57,Feminino,Ensino Médio,Design,7,47.25,13,Não Concluiu,3,1,Grátis,Tablet,Evadiu
+S0360,41,Feminino,Não Informado,Design,7,2.41,26,Não Concluiu,2,1,Grátis,Tablet,Não Evadiu
+S0361,50,Feminino,Não Informado,Design,7,5.32,7,Concluiu,3,2,Grátis,Tablet,Não Evadiu
+S0362,40,Feminino,Não Informado,Design,0,15.06,28,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0363,39,Masculino,Pós-graduado(a),Idiomas,1,9.62,26,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0364,28,Feminino,Ensino Médio,Idiomas,2,25.13,5,Concluiu,3,0,Grátis,Desktop,Não Evadiu
+S0365,22,Masculino,Graduando(a),Idiomas,4,55.51,8,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0366,51,Masculino,Graduando(a),Negócios,3,29.38,25,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0367,35,Feminino,Ensino Médio,Negócios,1,2.78,27,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0368,16,Masculino,Pós-graduado(a),Negócios,7,18.4,14,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0369,23,Masculino,Pós-graduado(a),Negócios,2,4.59,23,Não Concluiu,2,0,Pago,Mobile,Não Evadiu
+S0370,31,Feminino,Não Informado,Design,3,4.1,13,Não Concluiu,0,1,Pago,Mobile,Não Evadiu
+S0371,29,Masculino,Ensino Médio,Design,3,17.99,15,Concluiu,0,0,Pago,Mobile,Evadiu
+S0372,27,Masculino,Ensino Médio,Design,6,17.99,23,Não Concluiu,1,0,Pago,Mobile,Não Evadiu
+S0373,38,Feminino,Graduando(a),Tecnologia,1,47.65,17,Não Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0374,30,Feminino,Ensino Médio,Idiomas,0,57.27,15,Não Concluiu,0,0,Pago,Desktop,Não Evadiu
+S0375,43,Masculino,Pós-graduado(a),Negócios,1,23.53,20,Não Concluiu,2,0,Grátis,Mobile,Evadiu
+S0376,49,Feminino,Ensino Médio,Negócios,2,26.88,18,Não Concluiu,3,0,Grátis,Mobile,Não Evadiu
+S0377,17,Feminino,Graduando(a),Design,3,51.0,18,Não Concluiu,0,1,Grátis,Desktop,Não Evadiu
+S0378,47,Feminino,Não Informado,Negócios,1,17.55,2,Não Concluiu,0,1,Grátis,Mobile,Evadiu
+S0379,38,Feminino,Graduando(a),Negócios,0,11.07,4,Não Concluiu,0,2,Pago,Tablet,Evadiu
+S0380,37,Outro,Graduando(a),Idiomas,6,51.48,1,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0381,40,Feminino,Não Informado,Design,1,4.7,4,Concluiu,3,1,Grátis,Mobile,Não Evadiu
+S0382,37,Feminino,Graduando(a),Idiomas,4,37.94,18,Concluiu,1,0,Pago,Desktop,Não Evadiu
+S0383,37,Feminino,Graduando(a),Tecnologia,6,34.6,5,Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0384,57,Masculino,Ensino Médio,Tecnologia,0,22.06,19,Não Concluiu,0,2,Grátis,Desktop,Não Evadiu
+S0385,21,Masculino,Ensino Médio,Tecnologia,2,20.28,15,Concluiu,0,1,Pago,Tablet,Evadiu
+S0386,30,Feminino,Não Informado,Design,3,46.77,28,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0387,58,Feminino,Ensino Médio,Negócios,1,7.01,8,Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0388,52,Feminino,Ensino Médio,Design,0,15.73,20,Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0389,48,Masculino,Graduando(a),Design,6,44.48,17,Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0390,23,Feminino,Pós-graduado(a),Negócios,4,33.8,1,Concluiu,1,1,Pago,Tablet,Não Evadiu
+S0391,59,Masculino,Ensino Médio,Idiomas,0,9.42,12,Não Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0392,59,Feminino,Pós-graduado(a),Tecnologia,5,53.16,26,Não Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0393,20,Feminino,Ensino Médio,Idiomas,7,24.82,19,Não Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0394,54,Feminino,Ensino Médio,Tecnologia,4,50.02,15,Não Concluiu,3,0,Grátis,Tablet,Não Evadiu
+S0395,19,Feminino,Não Informado,Design,6,47.69,9,Não Concluiu,2,0,Pago,Mobile,Não Evadiu
+S0396,21,Feminino,Não Informado,Tecnologia,2,38.22,7,Concluiu,1,2,Grátis,Desktop,Não Evadiu
+S0397,47,Masculino,Não Informado,Design,3,30.68,2,Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0398,45,Feminino,Pós-graduado(a),Idiomas,6,57.27,28,Não Concluiu,1,1,Grátis,Mobile,Não Evadiu
+S0399,50,Masculino,Graduando(a),Design,7,10.41,9,Concluiu,0,2,Grátis,Tablet,Evadiu
+S0400,55,Feminino,Ensino Médio,Idiomas,2,44.06,10,Concluiu,1,0,Pago,Mobile,Não Evadiu
+S0401,31,Feminino,Ensino Médio,Negócios,1,13.09,2,Concluiu,0,1,Grátis,Desktop,Não Evadiu
+S0402,28,Feminino,Ensino Médio,Negócios,0,21.62,19,Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0403,57,Feminino,Pós-graduado(a),Negócios,5,19.9,11,Não Concluiu,2,0,Grátis,Mobile,Não Evadiu
+S0404,45,Feminino,Não Informado,Design,4,56.93,13,Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0405,34,Outro,Graduando(a),Negócios,4,57.27,10,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0406,32,Masculino,Pós-graduado(a),Tecnologia,0,12.61,14,Não Concluiu,3,0,Pago,Mobile,Não Evadiu
+S0407,34,Masculino,Não Informado,Idiomas,5,3.28,18,Não Concluiu,2,1,Grátis,Mobile,Não Evadiu
+S0408,43,Masculino,Pós-graduado(a),Idiomas,0,43.76,19,Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0409,41,Masculino,Graduando(a),Tecnologia,1,26.24,22,Não Concluiu,0,0,Grátis,Desktop,Evadiu
+S0410,52,Feminino,Não Informado,Design,7,7.15,9,Concluiu,2,0,Grátis,Mobile,Evadiu
+S0411,41,Outro,Pós-graduado(a),Design,2,41.66,25,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0412,38,Masculino,Graduando(a),Idiomas,6,33.62,7,Não Concluiu,1,2,Grátis,Tablet,Não Evadiu
+S0413,24,Masculino,Ensino Médio,Negócios,4,57.27,28,Não Concluiu,3,2,Pago,Desktop,Não Evadiu
+S0414,27,Masculino,Graduando(a),Design,1,15.19,3,Concluiu,1,0,Pago,Desktop,Não Evadiu
+S0415,16,Feminino,Ensino Médio,Design,2,25.43,20,Não Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0416,16,Feminino,Pós-graduado(a),Tecnologia,1,33.47,6,Não Concluiu,0,0,Grátis,Desktop,Não Evadiu
+S0417,49,Masculino,Não Informado,Tecnologia,5,47.92,27,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0418,47,Outro,Não Informado,Negócios,4,33.83,21,Não Concluiu,1,0,Pago,Mobile,Não Evadiu
+S0419,40,Feminino,Pós-graduado(a),Design,6,37.55,2,Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0420,55,Masculino,Não Informado,Design,0,15.12,28,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0421,16,Feminino,Não Informado,Tecnologia,0,51.12,6,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0422,31,Feminino,Ensino Médio,Design,2,26.86,3,Não Concluiu,0,2,Grátis,Mobile,Evadiu
+S0423,54,Masculino,Pós-graduado(a),Idiomas,6,10.18,16,Não Concluiu,3,2,Grátis,Mobile,Não Evadiu
+S0424,20,Masculino,Graduando(a),Tecnologia,7,40.52,8,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0425,37,Masculino,Ensino Médio,Negócios,3,14.53,2,Concluiu,0,2,Grátis,Desktop,Não Evadiu
+S0426,44,Masculino,Pós-graduado(a),Tecnologia,5,7.66,17,Não Concluiu,3,0,Pago,Desktop,Não Evadiu
+S0427,18,Feminino,Ensino Médio,Design,2,52.0,9,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0428,27,Outro,Graduando(a),Negócios,3,28.69,12,Não Concluiu,1,1,Grátis,Mobile,Não Evadiu
+S0429,41,Masculino,Graduando(a),Tecnologia,1,45.46,3,Não Concluiu,3,0,Grátis,Tablet,Evadiu
+S0430,31,Masculino,Pós-graduado(a),Idiomas,5,18.85,11,Concluiu,1,0,Pago,Desktop,Não Evadiu
+S0431,52,Masculino,Graduando(a),Idiomas,1,47.64,1,Não Concluiu,2,2,Grátis,Desktop,Evadiu
+S0432,37,Masculino,Ensino Médio,Tecnologia,7,8.49,23,Não Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0433,44,Feminino,Graduando(a),Idiomas,6,22.65,13,Não Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0434,29,Masculino,Ensino Médio,Idiomas,4,57.27,15,Concluiu,0,2,Grátis,Mobile,Não Evadiu
+S0435,43,Masculino,Ensino Médio,Idiomas,5,48.05,26,Concluiu,1,1,Grátis,Desktop,Evadiu
+S0436,20,Masculino,Graduando(a),Negócios,3,30.84,5,Não Concluiu,2,1,Pago,Tablet,Evadiu
+S0437,45,Feminino,Pós-graduado(a),Idiomas,7,21.71,21,Concluiu,1,1,Pago,Tablet,Não Evadiu
+S0438,20,Masculino,Não Informado,Idiomas,4,52.58,17,Não Concluiu,0,1,Grátis,Desktop,Não Evadiu
+S0439,27,Feminino,Graduando(a),Idiomas,0,33.6,25,Não Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0440,31,Masculino,Ensino Médio,Negócios,3,45.99,23,Concluiu,1,1,Pago,Desktop,Não Evadiu
+S0441,41,Feminino,Ensino Médio,Tecnologia,2,45.74,24,Concluiu,2,1,Grátis,Tablet,Não Evadiu
+S0442,41,Feminino,Graduando(a),Design,0,3.04,25,Concluiu,3,0,Pago,Desktop,Não Evadiu
+S0443,36,Masculino,Pós-graduado(a),Idiomas,7,9.32,6,Não Concluiu,3,1,Grátis,Tablet,Não Evadiu
+S0444,54,Masculino,Pós-graduado(a),Tecnologia,0,40.26,28,Não Concluiu,2,0,Pago,Mobile,Não Evadiu
+S0445,51,Feminino,Ensino Médio,Idiomas,2,11.37,21,Concluiu,2,1,Pago,Desktop,Não Evadiu
+S0446,48,Outro,Ensino Médio,Negócios,5,16.82,22,Não Concluiu,0,0,Pago,Desktop,Não Evadiu
+S0447,45,Feminino,Pós-graduado(a),Tecnologia,0,56.91,11,Não Concluiu,3,0,Grátis,Tablet,Não Evadiu
+S0448,52,Feminino,Não Informado,Negócios,6,34.49,18,Não Concluiu,2,2,Grátis,Desktop,Não Evadiu
+S0449,38,Outro,Graduando(a),Idiomas,3,45.54,4,Concluiu,2,0,Pago,Desktop,Não Evadiu
+S0450,25,Feminino,Ensino Médio,Idiomas,4,34.36,3,Não Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0451,20,Masculino,Ensino Médio,Negócios,0,34.05,13,Não Concluiu,1,1,Grátis,Mobile,Não Evadiu
+S0452,51,Outro,Pós-graduado(a),Design,3,7.46,23,Concluiu,0,2,Pago,Mobile,Não Evadiu
+S0453,49,Masculino,Graduando(a),Negócios,1,21.93,9,Não Concluiu,0,0,Pago,Tablet,Evadiu
+S0454,46,Feminino,Pós-graduado(a),Idiomas,3,18.38,21,Não Concluiu,3,1,Pago,Mobile,Não Evadiu
+S0455,25,Masculino,Graduando(a),Negócios,4,24.66,6,Não Concluiu,1,2,Grátis,Tablet,Não Evadiu
+S0456,34,Masculino,Graduando(a),Design,3,48.3,26,Não Concluiu,3,0,Pago,Mobile,Não Evadiu
+S0457,47,Masculino,Graduando(a),Negócios,2,23.57,28,Não Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0458,16,Feminino,Ensino Médio,Design,7,28.2,12,Não Concluiu,1,1,Grátis,Mobile,Evadiu
+S0459,20,Masculino,Não Informado,Design,4,25.05,2,Concluiu,2,1,Grátis,Mobile,Não Evadiu
+S0460,19,Masculino,Pós-graduado(a),Negócios,7,7.42,3,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0461,31,Masculino,Não Informado,Negócios,5,27.58,3,Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0462,39,Feminino,Pós-graduado(a),Tecnologia,7,13.35,28,Não Concluiu,1,0,Pago,Desktop,Não Evadiu
+S0463,31,Outro,Graduando(a),Idiomas,1,12.83,12,Não Concluiu,1,1,Grátis,Mobile,Não Evadiu
+S0464,17,Feminino,Ensino Médio,Design,2,7.45,15,Não Concluiu,1,0,Pago,Tablet,Não Evadiu
+S0465,43,Feminino,Não Informado,Tecnologia,5,22.69,9,Não Concluiu,0,0,Pago,Desktop,Não Evadiu
+S0466,47,Feminino,Ensino Médio,Negócios,3,45.93,23,Concluiu,2,0,Grátis,Tablet,Não Evadiu
+S0467,42,Feminino,Pós-graduado(a),Idiomas,4,18.03,8,Não Concluiu,0,0,Pago,Desktop,Não Evadiu
+S0468,35,Masculino,Ensino Médio,Tecnologia,1,20.12,11,Não Concluiu,1,1,Grátis,Tablet,Não Evadiu
+S0469,39,Masculino,Ensino Médio,Design,2,39.28,16,Concluiu,0,0,Pago,Mobile,Não Evadiu
+S0470,27,Masculino,Não Informado,Tecnologia,5,13.36,26,Concluiu,2,0,Grátis,Tablet,Evadiu
+S0471,50,Masculino,Graduando(a),Design,5,54.02,27,Concluiu,0,1,Pago,Desktop,Não Evadiu
+S0472,48,Masculino,Ensino Médio,Negócios,1,32.17,25,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0473,48,Feminino,Graduando(a),Idiomas,6,27.96,22,Concluiu,2,1,Grátis,Tablet,Não Evadiu
+S0474,58,Masculino,Pós-graduado(a),Idiomas,3,34.35,4,Não Concluiu,0,0,Pago,Desktop,Evadiu
+S0475,52,Feminino,Ensino Médio,Idiomas,1,11.63,28,Não Concluiu,3,0,Grátis,Mobile,Não Evadiu
+S0476,27,Feminino,Não Informado,Negócios,5,37.58,1,Não Concluiu,0,1,Grátis,Tablet,Não Evadiu
+S0477,18,Masculino,Pós-graduado(a),Design,0,23.06,24,Não Concluiu,1,1,Grátis,Desktop,Evadiu
+S0478,16,Feminino,Pós-graduado(a),Negócios,2,54.04,7,Não Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0479,48,Feminino,Não Informado,Idiomas,1,11.79,2,Não Concluiu,1,0,Grátis,Tablet,Evadiu
+S0480,55,Masculino,Ensino Médio,Negócios,6,31.41,24,Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0481,25,Feminino,Ensino Médio,Negócios,5,36.69,28,Não Concluiu,0,1,Grátis,Mobile,Não Evadiu
+S0482,58,Feminino,Pós-graduado(a),Negócios,3,3.94,5,Não Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0483,59,Feminino,Ensino Médio,Design,7,23.09,7,Não Concluiu,2,0,Grátis,Mobile,Evadiu
+S0484,44,Feminino,Graduando(a),Tecnologia,5,44.49,4,Concluiu,1,1,Grátis,Desktop,Não Evadiu
+S0485,28,Feminino,Não Informado,Tecnologia,3,49.58,5,Não Concluiu,2,1,Grátis,Tablet,Não Evadiu
+S0486,27,Feminino,Graduando(a),Negócios,1,20.16,24,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
+S0487,46,Masculino,Ensino Médio,Tecnologia,3,48.32,1,Concluiu,2,0,Grátis,Desktop,Não Evadiu
+S0488,17,Masculino,Pós-graduado(a),Tecnologia,4,57.27,1,Concluiu,0,0,Pago,Tablet,Não Evadiu
+S0489,50,Masculino,Não Informado,Negócios,4,51.7,15,Não Concluiu,0,0,Grátis,Mobile,Não Evadiu
+S0490,38,Feminino,Ensino Médio,Negócios,4,8.82,20,Concluiu,2,0,Grátis,Tablet,Evadiu
+S0491,32,Masculino,Ensino Médio,Idiomas,6,44.9,19,Concluiu,1,2,Grátis,Mobile,Não Evadiu
+S0492,41,Feminino,Pós-graduado(a),Tecnologia,6,20.54,28,Concluiu,1,0,Grátis,Desktop,Não Evadiu
+S0493,23,Feminino,Pós-graduado(a),Design,0,57.27,10,Não Concluiu,0,0,Pago,Desktop,Não Evadiu
+S0494,44,Feminino,Graduando(a),Negócios,6,30.15,28,Concluiu,1,0,Grátis,Tablet,Não Evadiu
+S0495,41,Outro,Não Informado,Idiomas,7,9.1,18,Não Concluiu,1,2,Grátis,Tablet,Não Evadiu
+S0496,25,Feminino,Não Informado,Design,1,44.06,28,Não Concluiu,1,0,Grátis,Mobile,Não Evadiu
+S0497,41,Feminino,Pós-graduado(a),Tecnologia,5,20.73,3,Não Concluiu,1,0,Grátis,Mobile,Evadiu
+S0498,49,Masculino,Graduando(a),Idiomas,5,57.27,11,Não Concluiu,3,0,Grátis,Tablet,Não Evadiu
+S0499,56,Feminino,Não Informado,Negócios,0,57.27,15,Não Concluiu,0,0,Grátis,Tablet,Não Evadiu
