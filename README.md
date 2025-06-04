@@ -39,9 +39,7 @@ O repositório está organizado da seguinte forma:
 
 ├── edtech_dropout_dataset_tratado
 
-└── databases/
-
-└── edtech_dropout_dataset.csv  
+└── databases/edtech_dropout_dataset.csv  
 
 ---
 
