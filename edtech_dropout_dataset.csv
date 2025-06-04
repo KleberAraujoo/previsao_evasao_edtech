@@ -1,0 +1,501 @@
+student_id,age,gender,education_level,course_category,days_active_first_week,avg_minutes_per_session,total_sessions,completed_first_quiz,forum_posts,messages_to_tutor,subscription_type,device_type,dropout_within_30_days
+S0000,54,Female,Graduate,Design,6,49.66,27,0,1,0,Free,Tablet,0
+S0001,44,Female,None,Tech,5,2.07,23,0,1,0,Paid,Tablet,1
+S0002,30,Male,Graduate,Languages,0,19.45,27,0,0,0,Free,Tablet,1
+S0003,58,Other,Graduate,Business,2,58.91,5,1,1,1,Free,Tablet,0
+S0004,23,Male,Graduate,Business,0,29.54,25,1,1,0,Paid,Desktop,0
+S0005,36,Male,High School,Business,0,24.19,3,0,0,0,Free,Tablet,1
+S0006,54,Other,None,Tech,3,8.95,1,0,0,1,Free,Mobile,0
+S0007,34,Female,Undergraduate,Languages,1,58.5,4,1,2,1,Free,Desktop,0
+S0008,38,Male,High School,Languages,2,3.16,25,0,3,2,Free,Mobile,0
+S0009,26,Female,Graduate,Tech,4,44.76,20,1,1,0,Free,Tablet,0
+S0010,26,Female,High School,Languages,4,46.58,2,0,2,0,Paid,Mobile,0
+S0011,39,Female,Graduate,Tech,6,16.13,26,0,2,0,Free,Tablet,0
+S0012,51,Male,Graduate,Tech,0,40.95,5,0,2,1,Free,Tablet,0
+S0013,55,Male,High School,Tech,7,7.39,3,0,2,1,Free,Desktop,1
+S0014,39,Female,None,Business,3,16.91,29,1,2,0,Free,Desktop,1
+S0015,18,Female,Graduate,Languages,7,47.7,28,0,3,0,Paid,Tablet,0
+S0016,37,Female,None,Tech,3,52.15,29,0,0,1,Paid,Desktop,0
+S0017,17,Male,Undergraduate,Languages,4,37.29,9,0,1,1,Free,Mobile,0
+S0018,39,Female,Graduate,Business,6,31.4,20,0,2,0,Paid,Desktop,0
+S0019,59,Female,None,Tech,6,11.24,6,0,1,1,Free,Desktop,0
+S0020,45,Male,None,Design,6,5.66,18,0,2,3,Paid,Mobile,0
+S0021,53,Male,Undergraduate,Business,2,8.82,6,1,2,0,Free,Desktop,0
+S0022,17,Female,None,Design,1,15.19,19,0,4,1,Paid,Tablet,0
+S0023,36,Female,None,Languages,2,21.82,28,0,1,0,Paid,Mobile,0
+S0024,48,Male,Undergraduate,Languages,5,24.09,12,1,1,1,Free,Tablet,0
+S0025,27,Male,Graduate,Business,5,22.09,25,0,4,0,Free,Mobile,0
+S0026,37,Male,None,Languages,7,15.87,11,1,2,0,Paid,Tablet,0
+S0027,59,Male,None,Design,1,31.56,2,0,0,0,Paid,Tablet,1
+S0028,40,Other,None,Tech,4,49.87,15,1,2,1,Free,Desktop,0
+S0029,42,Female,High School,Tech,1,18.22,12,1,0,2,Paid,Tablet,0
+S0030,57,Male,Undergraduate,Tech,3,56.66,12,1,1,0,Free,Desktop,0
+S0031,43,Other,High School,Business,5,52.65,9,1,2,1,Free,Mobile,0
+S0032,31,Female,Undergraduate,Languages,0,11.38,21,0,0,1,Free,Tablet,0
+S0033,30,Female,Graduate,Design,0,47.6,24,1,4,2,Free,Tablet,1
+S0034,59,Female,Graduate,Languages,4,35.33,2,0,3,0,Paid,Mobile,0
+S0035,18,Male,None,Languages,3,34.86,22,0,2,1,Free,Mobile,0
+S0036,52,Male,Undergraduate,Languages,7,24.68,3,0,0,1,Paid,Tablet,0
+S0037,22,Female,Graduate,Tech,2,31.07,12,0,1,0,Free,Mobile,1
+S0038,36,Female,Undergraduate,Design,3,25.04,28,0,1,2,Free,Desktop,0
+S0039,24,Male,Graduate,Design,0,33.3,26,0,3,0,Free,Mobile,0
+S0040,54,Other,High School,Languages,0,38.42,16,0,2,1,Free,Mobile,0
+S0041,33,Female,Graduate,Tech,7,41.11,21,1,1,0,Free,Tablet,0
+S0042,19,Male,High School,Tech,5,32.88,28,1,1,1,Free,Desktop,0
+S0043,40,Other,Graduate,Design,3,43.84,24,0,1,0,Free,Mobile,0
+S0044,29,Other,None,Tech,3,10.19,26,0,1,0,Free,Desktop,0
+S0045,24,Other,High School,Tech,0,14.29,1,0,1,1,Free,Desktop,1
+S0046,41,Male,Graduate,Tech,2,49.49,21,0,1,1,Free,Desktop,0
+S0047,17,Female,None,Business,4,20.71,3,0,0,1,Paid,Tablet,0
+S0048,35,Female,High School,Languages,6,3.33,20,0,1,0,Paid,Mobile,0
+S0049,43,Female,None,Design,4,10.92,2,0,1,0,Free,Tablet,0
+S0050,22,Other,Undergraduate,Design,3,14.97,9,1,1,0,Free,Mobile,0
+S0051,59,Female,Undergraduate,Business,4,57.52,19,0,2,0,Free,Mobile,0
+S0052,23,Female,High School,Languages,0,35.24,15,0,2,1,Paid,Tablet,0
+S0053,50,Female,Graduate,Design,0,56.1,18,0,2,1,Free,Desktop,0
+S0054,29,Female,High School,Tech,7,35.36,26,0,0,0,Free,Desktop,0
+S0055,32,Male,None,Design,3,29.8,11,0,0,1,Free,Mobile,0
+S0056,51,Male,Graduate,Tech,7,20.2,25,1,2,0,Free,Tablet,1
+S0057,55,Male,Undergraduate,Business,3,37.17,23,0,1,0,Free,Desktop,0
+S0058,19,Female,Graduate,Tech,6,10.07,16,0,1,0,Paid,Desktop,0
+S0059,17,Male,Undergraduate,Design,6,54.1,22,1,1,0,Free,Mobile,0
+S0060,21,Female,Graduate,Design,5,50.1,17,1,1,0,Free,Mobile,0
+S0061,57,Male,Graduate,Design,3,20.42,5,1,1,1,Free,Tablet,0
+S0062,19,Female,Graduate,Business,2,57.26,12,0,0,0,Free,Mobile,0
+S0063,44,Female,None,Business,4,49.86,11,1,0,0,Paid,Desktop,0
+S0064,33,Female,None,Languages,3,40.65,15,0,1,0,Free,Desktop,0
+S0065,41,Male,High School,Design,1,9.06,27,0,0,2,Paid,Desktop,0
+S0066,59,Other,High School,Tech,5,29.74,3,0,3,1,Free,Desktop,0
+S0067,49,Female,Undergraduate,Business,1,31.35,1,0,0,0,Free,Tablet,1
+S0068,25,Male,None,Design,0,15.49,20,0,1,0,Paid,Tablet,0
+S0069,51,Female,Undergraduate,Design,6,6.64,29,0,0,0,Free,Mobile,0
+S0070,29,Female,High School,Business,4,47.05,16,1,2,0,Paid,Mobile,0
+S0071,46,Male,Undergraduate,Languages,3,9.08,2,1,0,0,Free,Mobile,0
+S0072,30,Female,High School,Business,1,36.47,2,1,0,0,Paid,Tablet,0
+S0073,23,Male,None,Business,4,56.31,3,0,1,1,Free,Desktop,0
+S0074,29,Male,Graduate,Tech,0,52.81,8,1,2,0,Free,Mobile,0
+S0075,38,Male,None,Tech,6,18.11,24,0,1,1,Paid,Desktop,0
+S0076,55,Male,Undergraduate,Languages,2,51.38,28,1,3,0,Paid,Mobile,0
+S0077,36,Male,Undergraduate,Design,5,2.02,15,0,0,2,Paid,Mobile,0
+S0078,31,Female,None,Business,4,3.03,7,1,3,1,Paid,Mobile,0
+S0079,33,Female,None,Languages,4,36.95,6,0,2,1,Paid,Mobile,0
+S0080,39,Female,High School,Tech,2,23.16,9,1,1,0,Free,Mobile,0
+S0081,41,Female,Undergraduate,Business,4,24.41,20,1,1,0,Free,Desktop,0
+S0082,40,Female,Undergraduate,Design,0,34.74,28,0,2,0,Free,Mobile,0
+S0083,56,Female,None,Tech,0,13.12,1,0,1,1,Free,Desktop,1
+S0084,44,Male,Graduate,Tech,2,14.28,8,1,2,0,Free,Tablet,0
+S0085,30,Male,Undergraduate,Tech,5,30.11,23,0,0,0,Free,Mobile,0
+S0086,16,Female,Graduate,Languages,3,45.75,23,1,1,1,Free,Desktop,0
+S0087,40,Male,None,Design,1,37.93,3,0,2,1,Free,Tablet,1
+S0088,22,Female,None,Business,3,19.25,4,0,0,0,Free,Tablet,0
+S0089,24,Male,High School,Languages,4,26.96,26,0,2,0,Free,Tablet,0
+S0090,39,Female,Undergraduate,Languages,1,11.9,25,0,2,0,Free,Desktop,0
+S0091,16,Other,Graduate,Languages,7,6.33,15,1,0,2,Paid,Mobile,0
+S0092,59,Female,High School,Tech,2,47.4,6,0,1,0,Paid,Mobile,0
+S0093,23,Male,Undergraduate,Design,2,17.39,15,0,0,0,Free,Desktop,0
+S0094,39,Male,High School,Languages,5,12.31,21,0,2,1,Free,Mobile,0
+S0095,26,Other,None,Business,1,42.11,3,0,0,0,Free,Desktop,1
+S0096,32,Other,Undergraduate,Design,0,37.85,25,1,0,0,Free,Mobile,1
+S0097,23,Male,High School,Business,1,38.72,21,1,0,1,Free,Tablet,0
+S0098,50,Female,High School,Design,4,15.28,21,0,0,0,Free,Mobile,0
+S0099,50,Male,Graduate,Business,0,15.49,14,1,0,0,Free,Desktop,0
+S0100,48,Male,High School,Tech,6,14.81,20,1,2,0,Free,Desktop,0
+S0101,20,Male,Undergraduate,Languages,6,12.08,14,0,1,2,Paid,Tablet,0
+S0102,57,Male,Undergraduate,Business,7,40.03,4,1,5,0,Paid,Desktop,0
+S0103,54,Other,Graduate,Design,6,51.18,12,0,0,0,Free,Mobile,1
+S0104,56,Female,Undergraduate,Languages,2,44.01,17,0,3,0,Free,Mobile,0
+S0105,43,Male,None,Languages,1,47.94,7,1,0,0,Free,Tablet,0
+S0106,22,Female,Undergraduate,Design,6,25.48,9,0,2,1,Free,Desktop,0
+S0107,24,Other,Undergraduate,Business,3,39.94,3,1,1,0,Paid,Tablet,0
+S0108,23,Other,High School,Tech,5,22.55,28,1,2,0,Free,Mobile,0
+S0109,27,Male,High School,Tech,3,32.48,13,0,2,0,Paid,Tablet,0
+S0110,49,Male,Undergraduate,Business,6,29.93,15,1,0,0,Free,Desktop,1
+S0111,48,Male,Graduate,Languages,7,12.26,18,0,2,0,Paid,Tablet,0
+S0112,38,Male,High School,Languages,5,24.45,19,0,2,1,Free,Desktop,1
+S0113,39,Male,Graduate,Languages,4,57.9,1,1,1,0,Paid,Desktop,0
+S0114,52,Female,Undergraduate,Languages,3,16.42,6,1,1,2,Free,Mobile,0
+S0115,50,Male,Undergraduate,Business,7,9.76,27,0,0,1,Free,Mobile,0
+S0116,59,Male,None,Languages,1,26.28,27,0,1,0,Free,Mobile,0
+S0117,55,Male,High School,Design,1,47.84,23,1,2,0,Free,Desktop,0
+S0118,37,Male,Undergraduate,Languages,3,35.76,27,1,2,1,Paid,Tablet,0
+S0119,42,Male,None,Tech,6,41.5,27,1,0,0,Paid,Desktop,1
+S0120,50,Female,High School,Languages,7,13.0,2,0,0,0,Paid,Mobile,0
+S0121,16,Male,Undergraduate,Business,1,37.9,24,0,0,1,Free,Mobile,1
+S0122,50,Male,Undergraduate,Tech,4,20.76,14,0,0,0,Paid,Tablet,0
+S0123,52,Male,High School,Business,0,50.39,6,1,0,1,Free,Mobile,0
+S0124,29,Female,High School,Business,6,38.5,14,0,4,2,Free,Mobile,0
+S0125,18,Male,High School,Tech,7,13.53,4,0,0,1,Free,Mobile,0
+S0126,16,Male,Undergraduate,Business,4,5.75,21,1,1,0,Free,Tablet,0
+S0127,20,Male,Undergraduate,Business,7,4.47,8,0,1,0,Free,Desktop,0
+S0128,41,Other,None,Languages,5,23.54,3,1,1,0,Free,Mobile,0
+S0129,29,Male,Graduate,Design,4,17.42,19,1,2,0,Free,Tablet,0
+S0130,54,Female,High School,Business,6,39.47,14,1,2,1,Paid,Mobile,0
+S0131,42,Other,Undergraduate,Business,5,30.96,27,0,1,0,Free,Tablet,0
+S0132,24,Male,Undergraduate,Business,6,17.43,20,0,2,0,Free,Mobile,0
+S0133,30,Female,High School,Languages,1,10.66,17,1,1,1,Free,Tablet,0
+S0134,30,Female,Graduate,Design,0,9.38,25,1,1,0,Free,Mobile,0
+S0135,41,Male,High School,Tech,6,52.15,8,1,5,0,Free,Desktop,0
+S0136,57,Male,Graduate,Languages,6,16.12,24,0,1,0,Free,Mobile,1
+S0137,28,Female,Undergraduate,Languages,1,39.8,14,1,1,0,Free,Tablet,0
+S0138,47,Female,Graduate,Design,2,49.02,26,1,1,0,Free,Mobile,0
+S0139,54,Other,None,Design,1,37.62,6,1,0,0,Free,Desktop,1
+S0140,47,Male,Undergraduate,Languages,5,51.85,23,1,0,0,Paid,Mobile,0
+S0141,19,Female,None,Tech,1,24.76,22,1,0,0,Free,Tablet,0
+S0142,45,Male,High School,Languages,1,57.46,16,1,2,0,Free,Tablet,0
+S0143,52,Female,High School,Design,0,9.72,25,0,0,1,Paid,Desktop,0
+S0144,38,Female,High School,Tech,1,7.92,19,0,0,0,Free,Tablet,0
+S0145,54,Male,Graduate,Design,7,40.2,14,0,0,0,Free,Mobile,0
+S0146,30,Male,Undergraduate,Tech,6,56.68,19,0,0,1,Paid,Mobile,0
+S0147,58,Male,High School,Business,7,48.92,3,0,1,0,Free,Mobile,0
+S0148,44,Male,High School,Design,0,6.43,10,0,1,1,Free,Tablet,0
+S0149,51,Male,Undergraduate,Design,3,18.2,19,0,0,1,Free,Mobile,0
+S0150,28,Female,High School,Languages,2,55.96,9,0,2,1,Free,Mobile,0
+S0151,47,Female,None,Design,7,16.68,28,1,0,1,Free,Mobile,0
+S0152,22,Female,Undergraduate,Design,0,47.31,20,1,1,0,Free,Desktop,0
+S0153,37,Other,Undergraduate,Business,5,49.86,13,0,0,1,Free,Tablet,0
+S0154,43,Female,Undergraduate,Design,3,30.74,7,1,3,0,Free,Tablet,1
+S0155,17,Female,None,Business,0,24.41,14,0,1,1,Free,Tablet,0
+S0156,57,Female,Undergraduate,Business,0,28.11,9,0,2,0,Free,Desktop,0
+S0157,21,Male,None,Business,2,15.16,27,0,1,0,Free,Tablet,0
+S0158,43,Male,Undergraduate,Business,6,53.58,28,0,2,1,Free,Desktop,0
+S0159,43,Male,Graduate,Tech,7,28.14,23,1,0,0,Free,Desktop,0
+S0160,59,Male,High School,Languages,5,53.18,25,1,1,1,Paid,Tablet,0
+S0161,59,Male,Graduate,Tech,4,8.13,28,0,1,1,Free,Mobile,0
+S0162,35,Male,High School,Design,7,59.32,19,0,1,0,Free,Mobile,0
+S0163,45,Female,None,Tech,4,27.71,15,0,2,1,Free,Tablet,0
+S0164,26,Female,Graduate,Tech,0,4.77,20,0,1,0,Free,Tablet,0
+S0165,43,Male,Undergraduate,Design,1,4.21,14,0,0,0,Paid,Desktop,0
+S0166,40,Male,High School,Design,5,45.28,24,0,1,1,Free,Tablet,1
+S0167,54,Male,High School,Design,3,40.22,6,1,1,0,Paid,Desktop,0
+S0168,48,Female,Graduate,Tech,1,48.52,21,1,2,0,Free,Tablet,0
+S0169,16,Female,None,Tech,1,8.11,29,0,0,0,Paid,Mobile,0
+S0170,42,Female,Graduate,Design,7,4.06,4,1,3,0,Free,Mobile,0
+S0171,28,Male,None,Languages,5,31.5,8,0,2,2,Paid,Tablet,0
+S0172,56,Female,None,Languages,6,24.48,17,0,2,0,Free,Desktop,0
+S0173,18,Other,High School,Business,0,28.79,9,0,3,0,Free,Mobile,1
+S0174,54,Male,Graduate,Design,0,59.51,1,1,2,0,Free,Desktop,1
+S0175,21,Female,Graduate,Business,0,58.3,24,1,0,1,Free,Tablet,0
+S0176,23,Female,None,Languages,0,56.65,20,1,0,0,Paid,Tablet,0
+S0177,42,Female,Graduate,Business,7,47.46,25,0,2,1,Free,Mobile,0
+S0178,24,Male,Undergraduate,Design,4,22.58,14,1,1,1,Free,Tablet,0
+S0179,52,Female,Undergraduate,Design,0,25.9,11,0,1,2,Paid,Mobile,0
+S0180,48,Female,Graduate,Design,4,33.88,21,1,2,1,Free,Desktop,0
+S0181,57,Female,Graduate,Tech,4,50.17,3,0,2,0,Paid,Mobile,0
+S0182,59,Other,None,Business,6,5.99,9,0,0,0,Paid,Mobile,0
+S0183,39,Female,Undergraduate,Languages,0,26.61,27,0,1,0,Free,Desktop,1
+S0184,30,Other,Undergraduate,Languages,2,6.79,14,1,0,0,Paid,Mobile,0
+S0185,47,Female,High School,Languages,3,31.85,9,0,1,0,Free,Mobile,0
+S0186,47,Female,None,Tech,1,54.14,4,1,3,0,Free,Tablet,0
+S0187,39,Female,High School,Tech,4,47.38,27,0,0,0,Free,Desktop,0
+S0188,56,Male,Undergraduate,Design,5,15.21,4,1,2,0,Free,Mobile,0
+S0189,27,Female,None,Languages,5,58.61,28,1,3,1,Paid,Desktop,0
+S0190,54,Female,Graduate,Tech,3,40.71,8,1,3,0,Paid,Desktop,0
+S0191,17,Female,None,Design,5,2.6,2,0,2,0,Free,Mobile,0
+S0192,18,Other,Graduate,Languages,2,16.81,9,0,3,0,Free,Tablet,0
+S0193,52,Male,Graduate,Business,5,17.12,29,0,0,1,Paid,Desktop,0
+S0194,32,Female,None,Design,1,6.02,14,1,4,0,Free,Mobile,0
+S0195,17,Female,Graduate,Tech,1,57.67,22,0,3,1,Free,Desktop,0
+S0196,17,Female,High School,Tech,4,29.74,9,0,0,0,Free,Tablet,1
+S0197,43,Female,Undergraduate,Design,0,53.96,24,0,2,0,Paid,Tablet,0
+S0198,38,Female,Graduate,Design,6,20.69,23,0,0,1,Free,Tablet,1
+S0199,52,Female,High School,Tech,2,9.26,16,1,1,0,Paid,Mobile,0
+S0200,47,Male,Graduate,Business,4,29.51,29,0,0,0,Paid,Mobile,0
+S0201,48,Male,Undergraduate,Languages,2,8.61,17,1,2,0,Free,Tablet,0
+S0202,16,Female,High School,Business,0,30.19,16,0,0,0,Free,Mobile,0
+S0203,34,Male,Undergraduate,Design,7,55.38,12,0,0,0,Paid,Tablet,0
+S0204,17,Male,Undergraduate,Business,5,32.2,3,0,1,0,Free,Mobile,0
+S0205,59,Female,High School,Tech,5,37.76,11,0,3,2,Paid,Tablet,0
+S0206,41,Male,High School,Design,6,11.09,14,0,1,1,Paid,Desktop,0
+S0207,47,Female,High School,Languages,0,4.54,18,1,2,0,Free,Tablet,1
+S0208,21,Female,None,Tech,4,8.43,21,0,0,1,Paid,Tablet,0
+S0209,47,Female,High School,Tech,6,36.71,21,1,0,1,Paid,Mobile,0
+S0210,19,Male,High School,Languages,0,7.51,5,0,1,1,Paid,Mobile,0
+S0211,26,Female,High School,Languages,3,23.81,16,0,1,2,Free,Mobile,0
+S0212,32,Male,High School,Business,1,33.91,20,1,4,1,Free,Mobile,0
+S0213,53,Female,Graduate,Design,6,24.54,5,0,0,0,Free,Mobile,0
+S0214,39,Male,None,Languages,6,11.49,3,0,1,0,Free,Mobile,0
+S0215,20,Female,Undergraduate,Languages,4,17.88,12,0,1,0,Free,Desktop,1
+S0216,49,Female,High School,Design,2,55.84,1,0,0,2,Paid,Tablet,1
+S0217,21,Other,Graduate,Languages,3,41.21,21,1,0,2,Free,Tablet,0
+S0218,37,Female,Graduate,Languages,4,30.77,29,0,1,1,Free,Tablet,0
+S0219,26,Male,Graduate,Business,0,2.74,9,1,1,1,Free,Desktop,0
+S0220,31,Female,Undergraduate,Tech,0,59.56,29,1,1,0,Paid,Tablet,0
+S0221,48,Male,High School,Tech,0,40.94,9,0,2,0,Free,Desktop,0
+S0222,24,Male,None,Tech,7,20.38,4,1,4,1,Free,Desktop,1
+S0223,21,Male,None,Tech,0,53.0,3,0,1,0,Free,Desktop,1
+S0224,31,Female,Graduate,Languages,2,16.99,17,1,0,0,Paid,Tablet,0
+S0225,44,Female,Undergraduate,Design,3,33.55,2,0,2,1,Free,Desktop,0
+S0226,18,Male,Undergraduate,Design,5,38.89,24,1,3,0,Free,Tablet,0
+S0227,35,Female,Undergraduate,Business,1,14.82,1,0,0,0,Paid,Tablet,1
+S0228,51,Male,None,Business,2,58.75,8,0,1,0,Paid,Mobile,1
+S0229,34,Male,Graduate,Languages,2,45.4,13,1,0,2,Paid,Mobile,0
+S0230,41,Male,High School,Design,7,34.35,23,1,1,0,Free,Desktop,1
+S0231,18,Male,None,Design,5,12.47,15,0,1,1,Free,Desktop,0
+S0232,34,Female,Graduate,Tech,5,5.12,8,0,1,1,Paid,Tablet,0
+S0233,35,Female,Graduate,Languages,1,20.56,12,1,0,1,Free,Desktop,0
+S0234,47,Female,High School,Languages,1,45.68,22,1,3,0,Paid,Desktop,1
+S0235,22,Male,High School,Tech,5,17.62,12,1,2,1,Free,Tablet,0
+S0236,56,Male,High School,Languages,0,33.29,14,1,3,0,Free,Desktop,0
+S0237,48,Male,Undergraduate,Languages,2,44.22,15,1,3,0,Free,Desktop,0
+S0238,55,Female,High School,Business,4,8.26,15,1,1,1,Free,Tablet,0
+S0239,54,Male,Graduate,Design,1,41.75,9,0,3,0,Free,Tablet,1
+S0240,33,Female,High School,Languages,7,7.33,19,0,1,0,Free,Mobile,0
+S0241,55,Other,Graduate,Business,7,57.98,26,1,5,0,Paid,Tablet,0
+S0242,16,Female,None,Design,1,30.33,20,1,0,1,Free,Mobile,0
+S0243,26,Other,Undergraduate,Tech,5,10.74,29,0,2,0,Free,Desktop,0
+S0244,43,Male,None,Business,3,21.86,22,0,2,1,Paid,Tablet,0
+S0245,40,Female,None,Business,4,25.98,8,1,2,0,Free,Tablet,0
+S0246,38,Female,Graduate,Design,4,45.97,21,0,1,0,Free,Tablet,1
+S0247,46,Female,None,Tech,1,45.12,19,0,0,0,Paid,Desktop,0
+S0248,45,Male,Graduate,Business,0,37.49,6,0,2,0,Free,Mobile,0
+S0249,57,Male,High School,Languages,3,8.14,20,0,2,0,Paid,Desktop,0
+S0250,50,Male,High School,Languages,4,10.79,25,0,1,0,Paid,Desktop,0
+S0251,22,Female,Graduate,Languages,1,7.44,29,0,0,0,Paid,Tablet,0
+S0252,31,Female,High School,Tech,7,35.48,19,0,3,0,Free,Mobile,0
+S0253,41,Female,Undergraduate,Business,4,52.87,4,1,3,0,Free,Desktop,1
+S0254,17,Male,None,Languages,6,27.16,23,0,1,0,Free,Tablet,1
+S0255,16,Female,Undergraduate,Tech,3,11.33,7,1,1,1,Free,Desktop,0
+S0256,27,Male,None,Languages,3,34.37,28,1,3,0,Paid,Desktop,0
+S0257,20,Male,High School,Design,6,49.08,28,0,0,0,Free,Tablet,0
+S0258,52,Male,Undergraduate,Business,2,45.02,4,1,0,0,Free,Tablet,0
+S0259,47,Female,High School,Business,7,53.12,22,0,1,0,Paid,Mobile,0
+S0260,24,Male,None,Tech,6,18.12,12,1,4,0,Free,Desktop,0
+S0261,56,Female,Graduate,Tech,5,13.25,13,0,2,1,Free,Tablet,0
+S0262,50,Female,Graduate,Business,5,53.03,3,1,1,1,Free,Tablet,1
+S0263,34,Male,Undergraduate,Languages,1,40.14,22,1,2,0,Paid,Mobile,0
+S0264,31,Female,High School,Languages,3,20.03,12,0,3,0,Free,Mobile,0
+S0265,18,Male,High School,Design,2,45.06,2,0,1,0,Paid,Tablet,1
+S0266,35,Male,Undergraduate,Languages,2,49.28,24,1,1,0,Free,Mobile,0
+S0267,39,Female,Graduate,Tech,4,37.67,2,1,4,1,Paid,Tablet,0
+S0268,48,Male,None,Tech,4,41.9,27,0,1,2,Paid,Desktop,0
+S0269,39,Female,Undergraduate,Languages,6,23.77,23,1,0,0,Free,Mobile,0
+S0270,26,Female,None,Tech,2,33.24,9,0,0,0,Free,Desktop,0
+S0271,23,Female,Graduate,Business,6,32.4,1,1,1,0,Free,Desktop,0
+S0272,51,Female,High School,Business,7,51.19,8,0,0,0,Paid,Desktop,1
+S0273,53,Female,Graduate,Languages,6,50.72,23,1,0,0,Free,Tablet,0
+S0274,55,Female,Undergraduate,Business,4,50.3,6,0,0,0,Free,Desktop,0
+S0275,35,Female,High School,Business,3,2.64,6,0,4,0,Free,Desktop,0
+S0276,50,Male,Undergraduate,Design,6,45.47,22,0,1,3,Free,Desktop,0
+S0277,40,Male,Undergraduate,Design,0,46.0,25,0,0,0,Free,Tablet,0
+S0278,50,Female,Graduate,Business,3,41.35,18,0,0,0,Free,Desktop,0
+S0279,40,Female,Undergraduate,Languages,2,45.86,17,0,0,0,Free,Desktop,0
+S0280,44,Male,Graduate,Design,2,50.83,29,1,0,0,Paid,Mobile,0
+S0281,33,Female,High School,Tech,6,29.28,12,0,1,1,Free,Tablet,0
+S0282,33,Male,Graduate,Tech,3,31.12,6,0,0,0,Free,Desktop,0
+S0283,17,Other,High School,Tech,4,9.23,26,0,0,0,Paid,Mobile,0
+S0284,50,Male,Graduate,Languages,4,24.35,27,0,1,0,Paid,Tablet,1
+S0285,31,Male,None,Business,5,39.32,8,0,1,0,Paid,Tablet,0
+S0286,56,Male,None,Tech,2,47.26,19,0,0,0,Free,Tablet,0
+S0287,51,Female,Undergraduate,Languages,1,14.6,28,0,0,0,Free,Tablet,0
+S0288,48,Female,Graduate,Design,5,9.99,10,0,1,0,Free,Tablet,0
+S0289,19,Male,Graduate,Business,4,40.46,1,0,2,1,Paid,Tablet,0
+S0290,48,Female,High School,Design,3,2.11,25,0,1,1,Free,Desktop,0
+S0291,29,Male,Undergraduate,Languages,7,12.35,29,0,0,0,Free,Desktop,0
+S0292,36,Female,Graduate,Tech,4,3.69,13,0,1,0,Free,Desktop,0
+S0293,35,Male,Undergraduate,Tech,3,11.68,17,1,1,0,Free,Desktop,0
+S0294,23,Male,None,Languages,5,12.52,3,0,1,0,Free,Mobile,0
+S0295,22,Female,Graduate,Tech,2,24.49,8,1,1,1,Free,Desktop,0
+S0296,18,Other,Graduate,Business,4,25.33,14,0,1,0,Free,Tablet,0
+S0297,32,Female,Undergraduate,Languages,6,52.71,3,1,2,0,Free,Desktop,1
+S0298,48,Female,Graduate,Design,3,31.59,16,1,2,1,Paid,Desktop,0
+S0299,27,Other,Undergraduate,Languages,2,43.96,13,0,4,0,Paid,Tablet,0
+S0300,37,Male,Graduate,Business,7,8.04,20,1,0,0,Paid,Desktop,0
+S0301,37,Other,High School,Business,7,15.08,24,0,2,2,Paid,Desktop,0
+S0302,45,Female,Undergraduate,Languages,1,42.77,17,0,2,2,Free,Desktop,0
+S0303,53,Female,Graduate,Languages,3,5.06,13,1,2,0,Free,Mobile,0
+S0304,53,Female,None,Tech,5,30.22,29,1,2,0,Free,Desktop,0
+S0305,23,Female,Graduate,Business,1,36.76,6,0,0,1,Free,Tablet,0
+S0306,42,Female,None,Languages,1,36.92,17,0,1,1,Free,Tablet,0
+S0307,42,Female,None,Languages,0,3.33,14,0,2,1,Free,Desktop,0
+S0308,49,Female,High School,Business,4,20.68,17,0,1,0,Free,Desktop,0
+S0309,36,Male,Undergraduate,Languages,3,38.92,8,1,1,2,Free,Desktop,0
+S0310,45,Other,Graduate,Tech,1,10.64,11,0,1,0,Free,Tablet,0
+S0311,48,Female,High School,Business,0,42.33,20,0,1,1,Free,Tablet,0
+S0312,43,Male,Graduate,Tech,5,45.26,28,0,0,0,Paid,Mobile,0
+S0313,48,Female,None,Tech,2,58.95,1,0,0,0,Free,Mobile,1
+S0314,20,Female,Undergraduate,Tech,6,14.17,26,0,0,0,Free,Mobile,0
+S0315,34,Female,Graduate,Tech,6,49.86,7,1,1,0,Free,Tablet,1
+S0316,19,Female,Graduate,Business,3,32.18,21,1,3,1,Free,Mobile,0
+S0317,50,Male,None,Tech,1,23.66,21,1,1,1,Free,Desktop,0
+S0318,32,Female,Graduate,Tech,6,9.1,17,0,1,0,Free,Desktop,0
+S0319,59,Other,Graduate,Languages,4,44.66,10,1,3,0,Free,Tablet,1
+S0320,43,Male,None,Business,6,15.68,11,1,1,4,Free,Mobile,0
+S0321,45,Female,High School,Business,6,23.54,22,1,0,0,Paid,Desktop,1
+S0322,44,Male,None,Design,6,5.63,9,0,1,1,Paid,Tablet,0
+S0323,21,Female,High School,Business,7,48.48,9,0,0,0,Free,Mobile,1
+S0324,50,Female,Undergraduate,Business,0,46.46,24,0,0,0,Free,Desktop,0
+S0325,56,Female,High School,Design,1,44.55,5,0,4,0,Paid,Mobile,0
+S0326,52,Male,High School,Business,4,19.37,17,0,1,0,Free,Tablet,0
+S0327,39,Female,Undergraduate,Business,1,12.06,9,0,0,0,Free,Mobile,0
+S0328,44,Male,High School,Business,7,38.98,17,0,2,0,Free,Tablet,0
+S0329,46,Male,None,Business,3,30.78,24,1,0,0,Paid,Mobile,0
+S0330,50,Male,High School,Design,3,12.34,21,0,0,0,Free,Desktop,0
+S0331,48,Male,Undergraduate,Business,3,41.78,19,0,0,0,Free,Tablet,0
+S0332,36,Female,None,Business,5,59.49,27,1,2,1,Paid,Tablet,1
+S0333,47,Female,Undergraduate,Design,6,45.34,7,1,1,0,Free,Tablet,0
+S0334,38,Female,Undergraduate,Languages,5,44.92,23,1,1,1,Free,Mobile,0
+S0335,48,Male,Graduate,Tech,0,57.12,9,1,3,0,Paid,Mobile,0
+S0336,18,Female,Graduate,Languages,3,13.77,7,0,1,1,Free,Desktop,1
+S0337,33,Female,Undergraduate,Design,7,34.8,13,1,0,1,Free,Tablet,0
+S0338,40,Male,Undergraduate,Tech,4,58.82,11,0,0,1,Free,Tablet,0
+S0339,57,Other,Undergraduate,Design,1,11.59,14,0,1,0,Free,Mobile,0
+S0340,46,Other,Graduate,Design,6,42.61,19,0,2,0,Free,Mobile,0
+S0341,18,Male,Graduate,Business,2,35.98,11,0,1,0,Free,Desktop,0
+S0342,55,Male,High School,Tech,4,36.02,13,0,0,0,Free,Desktop,0
+S0343,39,Other,High School,Business,6,42.46,14,1,1,0,Paid,Mobile,0
+S0344,47,Female,Undergraduate,Tech,5,55.92,13,1,1,0,Free,Tablet,0
+S0345,37,Male,None,Design,5,47.39,1,0,0,0,Free,Desktop,0
+S0346,38,Female,None,Design,4,5.26,8,0,1,0,Free,Mobile,0
+S0347,17,Female,Graduate,Languages,5,51.46,12,1,0,0,Paid,Mobile,0
+S0348,42,Female,Graduate,Tech,3,15.08,19,1,1,1,Free,Tablet,0
+S0349,57,Female,Graduate,Business,0,23.86,12,0,1,0,Free,Mobile,0
+S0350,17,Female,Undergraduate,Languages,1,28.78,8,1,0,1,Free,Mobile,0
+S0351,41,Male,None,Languages,0,29.89,8,0,2,0,Free,Desktop,1
+S0352,32,Male,High School,Languages,6,27.24,29,0,1,0,Free,Mobile,0
+S0353,55,Female,Undergraduate,Business,1,56.37,21,1,1,1,Paid,Mobile,0
+S0354,48,Other,High School,Languages,7,42.95,13,0,3,0,Free,Desktop,0
+S0355,24,Male,High School,Business,1,38.61,12,0,0,0,Free,Tablet,0
+S0356,58,Female,Undergraduate,Languages,0,4.89,29,1,0,1,Free,Tablet,0
+S0357,54,Female,High School,Business,4,54.43,16,1,3,0,Paid,Desktop,0
+S0358,44,Female,None,Design,1,54.74,1,0,1,1,Free,Desktop,1
+S0359,57,Female,High School,Design,7,47.25,13,0,3,1,Free,Tablet,1
+S0360,41,Female,None,Design,7,2.41,26,0,2,1,Free,Tablet,0
+S0361,50,Female,None,Design,7,5.32,7,1,4,2,Free,Tablet,0
+S0362,40,Female,None,Design,0,15.06,28,0,0,0,Free,Tablet,0
+S0363,39,Male,Graduate,Languages,1,9.62,26,0,1,0,Free,Tablet,0
+S0364,28,Female,High School,Languages,2,25.13,5,1,4,0,Free,Desktop,0
+S0365,22,Male,Undergraduate,Languages,4,55.51,8,0,1,0,Free,Mobile,0
+S0366,51,Male,Undergraduate,Business,3,29.38,25,0,1,0,Free,Tablet,0
+S0367,35,Female,High School,Business,1,2.78,27,0,1,0,Free,Tablet,0
+S0368,16,Male,Graduate,Business,7,18.4,14,1,1,0,Free,Mobile,0
+S0369,23,Male,Graduate,Business,2,4.59,23,0,2,0,Paid,Mobile,0
+S0370,31,Female,None,Design,3,4.1,13,0,0,1,Paid,Mobile,0
+S0371,29,Male,High School,Design,3,17.99,15,1,0,0,Paid,Mobile,1
+S0372,27,Male,High School,Design,6,17.99,23,0,1,0,Paid,Mobile,0
+S0373,38,Female,Undergraduate,Tech,1,47.65,17,0,2,0,Free,Mobile,0
+S0374,30,Female,High School,Languages,0,58.54,15,0,0,0,Paid,Desktop,0
+S0375,43,Male,Graduate,Business,1,23.53,20,0,2,0,Free,Mobile,1
+S0376,49,Female,High School,Business,2,26.88,18,0,4,0,Free,Mobile,0
+S0377,17,Female,Undergraduate,Design,3,51.0,18,0,0,1,Free,Desktop,0
+S0378,47,Female,None,Business,1,17.55,2,0,0,1,Free,Mobile,1
+S0379,38,Female,Undergraduate,Business,0,11.07,4,0,0,2,Paid,Tablet,1
+S0380,37,Other,Undergraduate,Languages,6,51.48,1,1,1,0,Free,Tablet,0
+S0381,40,Female,None,Design,1,4.7,4,1,3,1,Free,Mobile,0
+S0382,37,Female,Undergraduate,Languages,4,37.94,18,1,1,0,Paid,Desktop,0
+S0383,37,Female,Undergraduate,Tech,6,34.6,5,1,0,1,Free,Tablet,0
+S0384,57,Male,High School,Tech,0,22.06,19,0,0,3,Free,Desktop,0
+S0385,21,Male,High School,Tech,2,20.28,15,1,0,1,Paid,Tablet,1
+S0386,30,Female,None,Design,3,46.77,28,0,1,0,Free,Mobile,0
+S0387,58,Female,High School,Business,1,7.01,8,1,1,1,Free,Desktop,0
+S0388,52,Female,High School,Design,0,15.73,20,1,2,0,Free,Desktop,0
+S0389,48,Male,Undergraduate,Design,6,44.48,17,1,1,0,Free,Desktop,0
+S0390,23,Female,Graduate,Business,4,33.8,1,1,1,1,Paid,Tablet,0
+S0391,59,Male,High School,Languages,0,9.42,12,0,0,1,Free,Tablet,0
+S0392,59,Female,Graduate,Tech,5,53.16,26,0,0,1,Free,Tablet,0
+S0393,20,Female,High School,Languages,7,24.82,19,0,2,0,Free,Mobile,0
+S0394,54,Female,High School,Tech,4,50.02,15,0,4,0,Free,Tablet,0
+S0395,19,Female,None,Design,6,47.69,9,0,2,0,Paid,Mobile,0
+S0396,21,Female,None,Tech,2,38.22,7,1,1,2,Free,Desktop,0
+S0397,47,Male,None,Design,3,30.68,2,1,2,0,Free,Desktop,0
+S0398,45,Female,Graduate,Languages,6,58.81,29,0,1,1,Free,Mobile,0
+S0399,50,Male,Undergraduate,Design,7,10.41,9,1,0,2,Free,Tablet,1
+S0400,55,Female,High School,Languages,2,44.06,10,1,1,0,Paid,Mobile,0
+S0401,31,Female,High School,Business,1,13.09,2,1,0,1,Free,Desktop,0
+S0402,28,Female,High School,Business,0,21.62,19,1,2,0,Free,Desktop,0
+S0403,57,Female,Graduate,Business,5,19.9,11,0,2,0,Free,Mobile,0
+S0404,45,Female,None,Design,4,56.93,13,1,0,0,Paid,Tablet,0
+S0405,34,Other,Undergraduate,Business,4,58.11,10,1,1,0,Free,Tablet,0
+S0406,32,Male,Graduate,Tech,0,12.61,14,0,3,0,Paid,Mobile,0
+S0407,34,Male,None,Languages,5,3.28,18,0,2,1,Free,Mobile,0
+S0408,43,Male,Graduate,Languages,0,43.76,19,1,0,0,Paid,Tablet,0
+S0409,41,Male,Undergraduate,Tech,1,26.24,22,0,0,0,Free,Desktop,1
+S0410,52,Female,None,Design,7,7.15,9,1,2,0,Free,Mobile,1
+S0411,41,Other,Graduate,Design,2,41.66,25,1,1,0,Free,Tablet,0
+S0412,38,Male,Undergraduate,Languages,6,33.62,7,0,1,2,Free,Tablet,0
+S0413,24,Male,High School,Business,4,58.87,28,0,3,2,Paid,Desktop,0
+S0414,27,Male,Undergraduate,Design,1,15.19,3,1,1,0,Paid,Desktop,0
+S0415,16,Female,High School,Design,2,25.43,20,0,1,1,Free,Desktop,0
+S0416,16,Female,Graduate,Tech,1,33.47,6,0,0,0,Free,Desktop,0
+S0417,49,Male,None,Tech,5,47.92,27,0,1,0,Free,Desktop,0
+S0418,47,Other,None,Business,4,33.83,21,0,1,0,Paid,Mobile,0
+S0419,40,Female,Graduate,Design,6,37.55,2,1,2,0,Free,Tablet,0
+S0420,55,Male,None,Design,0,15.12,29,0,1,0,Free,Mobile,0
+S0421,16,Female,None,Tech,0,51.12,6,1,1,0,Free,Mobile,0
+S0422,31,Female,High School,Design,2,26.86,3,0,0,2,Free,Mobile,1
+S0423,54,Male,Graduate,Languages,6,10.18,16,0,3,2,Free,Mobile,0
+S0424,20,Male,Undergraduate,Tech,7,40.52,8,1,1,0,Free,Mobile,0
+S0425,37,Male,High School,Business,3,14.53,2,1,0,2,Free,Desktop,0
+S0426,44,Male,Graduate,Tech,5,7.66,17,0,3,0,Paid,Desktop,0
+S0427,18,Female,High School,Design,2,52.0,9,0,0,0,Free,Tablet,0
+S0428,27,Other,Undergraduate,Business,3,28.69,12,0,1,1,Free,Mobile,0
+S0429,41,Male,Undergraduate,Tech,1,45.46,3,0,3,0,Free,Tablet,1
+S0430,31,Male,Graduate,Languages,5,18.85,11,1,1,0,Paid,Desktop,0
+S0431,52,Male,Undergraduate,Languages,1,47.64,1,0,2,2,Free,Desktop,1
+S0432,37,Male,High School,Tech,7,8.49,23,0,1,1,Free,Desktop,0
+S0433,44,Female,Undergraduate,Languages,6,22.65,13,0,0,1,Free,Mobile,0
+S0434,29,Male,High School,Languages,4,58.73,15,1,0,2,Free,Mobile,0
+S0435,43,Male,High School,Languages,5,48.05,26,1,1,1,Free,Desktop,1
+S0436,20,Male,Undergraduate,Business,3,30.84,5,0,2,1,Paid,Tablet,1
+S0437,45,Female,Graduate,Languages,7,21.71,21,1,1,1,Paid,Tablet,0
+S0438,20,Male,None,Languages,4,52.58,17,0,0,1,Free,Desktop,0
+S0439,27,Female,Undergraduate,Languages,0,33.6,25,0,1,0,Free,Tablet,0
+S0440,31,Male,High School,Business,3,45.99,23,1,1,1,Paid,Desktop,0
+S0441,41,Female,High School,Tech,2,45.74,24,1,2,1,Free,Tablet,0
+S0442,41,Female,Undergraduate,Design,0,3.04,25,1,3,0,Paid,Desktop,0
+S0443,36,Male,Graduate,Languages,7,9.32,6,0,5,1,Free,Tablet,0
+S0444,54,Male,Graduate,Tech,0,40.26,28,0,2,0,Paid,Mobile,0
+S0445,51,Female,High School,Languages,2,11.37,21,1,2,1,Paid,Desktop,0
+S0446,48,Other,High School,Business,5,16.82,22,0,0,0,Paid,Desktop,0
+S0447,45,Female,Graduate,Tech,0,56.91,11,0,3,0,Free,Tablet,0
+S0448,52,Female,None,Business,6,34.49,18,0,2,2,Free,Desktop,0
+S0449,38,Other,Undergraduate,Languages,3,45.54,4,1,2,0,Paid,Desktop,0
+S0450,25,Female,High School,Languages,4,34.36,3,0,1,1,Free,Desktop,0
+S0451,20,Male,High School,Business,0,34.05,13,0,1,1,Free,Mobile,0
+S0452,51,Other,Graduate,Design,3,7.46,23,1,0,2,Paid,Mobile,0
+S0453,49,Male,Undergraduate,Business,1,21.93,9,0,0,0,Paid,Tablet,1
+S0454,46,Female,Graduate,Languages,3,18.38,21,0,3,1,Paid,Mobile,0
+S0455,25,Male,Undergraduate,Business,4,24.66,6,0,1,2,Free,Tablet,0
+S0456,34,Male,Undergraduate,Design,3,48.3,26,0,3,0,Paid,Mobile,0
+S0457,47,Male,Undergraduate,Business,2,23.57,28,0,0,0,Paid,Tablet,0
+S0458,16,Female,High School,Design,7,28.2,12,0,1,1,Free,Mobile,1
+S0459,20,Male,None,Design,4,25.05,2,1,2,1,Free,Mobile,0
+S0460,19,Male,Graduate,Business,7,7.42,3,0,0,0,Free,Tablet,0
+S0461,31,Male,None,Business,5,27.58,3,1,1,0,Free,Desktop,0
+S0462,39,Female,Graduate,Tech,7,13.35,28,0,1,0,Paid,Desktop,0
+S0463,31,Other,Undergraduate,Languages,1,12.83,12,0,1,1,Free,Mobile,0
+S0464,17,Female,High School,Design,2,7.45,15,0,1,0,Paid,Tablet,0
+S0465,43,Female,None,Tech,5,22.69,9,0,0,0,Paid,Desktop,0
+S0466,47,Female,High School,Business,3,45.93,23,1,2,0,Free,Tablet,0
+S0467,42,Female,Graduate,Languages,4,18.03,8,0,0,0,Paid,Desktop,0
+S0468,35,Male,High School,Tech,1,20.12,11,0,1,1,Free,Tablet,0
+S0469,39,Male,High School,Design,2,39.28,16,1,0,0,Paid,Mobile,0
+S0470,27,Male,None,Tech,5,13.36,26,1,2,0,Free,Tablet,1
+S0471,50,Male,Undergraduate,Design,5,54.02,27,1,0,1,Paid,Desktop,0
+S0472,48,Male,High School,Business,1,32.17,25,0,0,0,Free,Mobile,0
+S0473,48,Female,Undergraduate,Languages,6,27.96,22,1,2,1,Free,Tablet,0
+S0474,58,Male,Graduate,Languages,3,34.35,4,0,0,0,Paid,Desktop,1
+S0475,52,Female,High School,Languages,1,11.63,28,0,3,0,Free,Mobile,0
+S0476,27,Female,None,Business,5,37.58,1,0,0,1,Free,Tablet,0
+S0477,18,Male,Graduate,Design,0,23.06,24,0,1,1,Free,Desktop,1
+S0478,16,Female,Graduate,Business,2,54.04,7,0,0,0,Paid,Tablet,0
+S0479,48,Female,None,Languages,1,11.79,2,0,1,0,Free,Tablet,1
+S0480,55,Male,High School,Business,6,31.41,24,1,1,0,Free,Mobile,0
+S0481,25,Female,High School,Business,5,36.69,28,0,0,1,Free,Mobile,0
+S0482,58,Female,Graduate,Business,3,3.94,5,0,1,0,Free,Desktop,0
+S0483,59,Female,High School,Design,7,23.09,7,0,2,0,Free,Mobile,1
+S0484,44,Female,Undergraduate,Tech,5,44.49,4,1,1,1,Free,Desktop,0
+S0485,28,Female,None,Tech,3,49.58,5,0,2,1,Free,Tablet,0
+S0486,27,Female,Undergraduate,Business,1,20.16,24,0,0,0,Free,Tablet,0
+S0487,46,Male,High School,Tech,3,48.32,1,1,2,0,Free,Desktop,0
+S0488,17,Male,Graduate,Tech,4,58.13,1,1,0,0,Paid,Tablet,0
+S0489,50,Male,None,Business,4,51.7,15,0,0,0,Free,Mobile,0
+S0490,38,Female,High School,Business,4,8.82,20,1,2,0,Free,Tablet,1
+S0491,32,Male,High School,Languages,6,44.9,19,1,1,2,Free,Mobile,0
+S0492,41,Female,Graduate,Tech,6,20.54,29,1,1,0,Free,Desktop,0
+S0493,23,Female,Graduate,Design,0,59.33,10,0,0,0,Paid,Desktop,0
+S0494,44,Female,Undergraduate,Business,6,30.15,28,1,1,0,Free,Tablet,0
+S0495,41,Other,None,Languages,7,9.1,18,0,1,2,Free,Tablet,0
+S0496,25,Female,None,Design,1,44.06,28,0,1,0,Free,Mobile,0
+S0497,41,Female,Graduate,Tech,5,20.73,3,0,1,0,Free,Mobile,1
+S0498,49,Male,Undergraduate,Languages,5,59.83,11,0,3,0,Free,Tablet,0
+S0499,56,Female,None,Business,0,58.83,15,0,0,0,Free,Tablet,0
