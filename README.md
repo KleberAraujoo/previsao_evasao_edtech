@@ -32,10 +32,15 @@ O dataset utilizado contém informações de **500 alunos**, abrangendo diversas
 
 O repositório está organizado da seguinte forma:
 ├── 01_Analise_Exploratoria_Evasao.ipynb
+
 ├── 02_Modelagem_Evasao.ipynb
+
 ├── Relatorio_Evasao_EdTech.pdf 
+
 ├── edtech_dropout_dataset_tratado
+
 └── databases/
+
 └── edtech_dropout_dataset.csv  
 
 ---
